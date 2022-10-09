@@ -1,0 +1,26 @@
+html,
+body {
+  background-color: #f3faf9;
+}
+
+#text_div {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+h1 {
+  text-align: center;
+  color: #101fda;
+  font-size: 40px;
+  margin-left: 50%;
+}
+
+p {
+  color: #527298;
+  font-size: 16px;
+}
+
+#bar_chart {
+  width: 90%;
+  height: 90%;
+}
