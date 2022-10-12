@@ -1,0 +1,48 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 600,
+  "height": 450,
+  "data": {
+    "url": "data/team_stats.csv"
+  },
+  "params": [
+    {
+      "name": "team_filter",
+      "value": "Arsenal",
+      "bind": {
+        "input": "select",
+        "options": ["Arsenal", "Chelsea", "Liverpool", "Manchester City"],
+        "name": "Team Filter: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.squad == team_filter"
+    }
+  ],
+  "mark": { "type": "bar" },
+  "encoding": {
+    "x": {
+      "field": "season",
+      "type": "nominal",
+      "axis": {
+        "title": "Season Year"
+      }
+    },
+    "y": { "field": "wins", "type": "quantitative", "title": "Number of Wins" },
+    "tooltip": [
+      { "field": "squad", "type": "nominal", "title": "Squad" },
+      { "field": "season", "type": "quantitative", "title": "Year" },
+      { "field": "wins", "type": "quantitative", "title": "Wins" }
+    ],
+    "color": {
+      "field": "squad",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Arsenal", "Chelsea", "Liverpool", "Manchester City"],
+        "range": ["#f72f2f", "#0e03a8", "#F70000", "#72cafc"]
+      }
+    }
+  }
+}
