@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+    <link rel="stylesheet" href="css/style.css" />
+
+    <title>Data Visualisation 2</title>
+
+    <script type="text/javascript">
+      var data_location = "data/team_stats.csv";
+
+      var spec1 = "js/basic_bar_chart.vg.json";
+
+      vegaEmbed("#basic_bar_chart", spec1)
+        .then(function (result) {})
+        .catch(console.error);
+
+      var spec2 = "js/interactive_bar_chart.vg.json";
+      vegaEmbed("#interactive_bar_chart", spec2)
+        .then(function (result) {})
+        .catch(console.error);
+    </script>
+  </head>
+
+  <body>
+    <div id="text_div">
+      <h1>Data Visualisation 2: European Football 2021-22 Season Recap</h1>
+      <p>
+        This week, the focus was bringing in an interactive chart into some
+        page. This week I have selected to look at filtering out data based on
+        some input, like a dropdown menu.
+      </p>
+      <h2>Basic Bar Chart</h2>
+      <p>
+        Here, we have a boring old bar chart. No filter, no legend, no
+        understanding of what is going on.
+      </p>
+    </div>
+    <div id="basic_bar_chart"></div>
+    <h2>Interactive Bar Chart</h2>
+    <div id="text_div">
+      <p>
+        Now, we can filter which team achieves more victories accross time, filter by team, and the colours make more sense as they are assigned to each team.
+        There are also annotations showing the data.
+      </p>
+    <div id="interactive_bar_chart"></div>
+  </body>
+</html>
