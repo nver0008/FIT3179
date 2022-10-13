@@ -1,0 +1,54 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "width": 500,
+  "height": 500,
+  "data": [
+    {
+      "name": "transfers_in",
+      "url": "data/top5-clubs-transfers.csv",
+      "format": { "type": "csv" },
+      "transform": [
+        { "type": "nest", "keys": ["League", "Team"] },
+        {
+          "type": "treemap",
+          "field": "Transfer Sum",
+          "method": "squarify",
+          "ratio": 1.5,
+          "paddingInner": 1,
+          "size": [{ "signal": "width" }, { "signal": "height" }]
+        }
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": [
+        "Premier League",
+        "Bundesliga",
+        "La Liga",
+        "Ligue 1",
+        "Serie A"
+      ],
+      "range": ["purple", "red", "gold", "navy", "turquoise"]
+    }
+  ],
+
+  "marks": [
+    {
+      "type": "rect",
+      "from": { "data": "transfers_in" },
+      "encode": {
+        "update": {
+          "fill": { "scale": "color", "field": "League", "opacity": 0.5 },
+          "x": { "field": "x0" },
+          "x2": { "field": "x1" },
+          "y": { "field": "y0" },
+          "y2": { "field": "y1" }
+        },
+        "tooltip": { "field": "League" }
+      }
+    }
+  ]
+}
