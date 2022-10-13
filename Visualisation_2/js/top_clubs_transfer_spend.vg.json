@@ -1,0 +1,73 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 300,
+  "data": {
+    "url": "data/transfers-2021-top5_in.json"
+  },
+  "title": ["Highest Spenders in 2021 by Club"],
+  "transform": [
+    {
+      "window": [
+        {
+          "op": "rank",
+          "as": "rank"
+        }
+      ],
+      "groupby": ["team_name"],
+      "sort": [
+        {
+          "field": "transfer_fee_amnt",
+          "order": "descending"
+        }
+      ]
+    },
+    {
+      "filter": "datum.rank < 200"
+    }
+  ],
+  "mark": { "type": "bar" },
+  "encoding": {
+    "x": {
+      "field": "team_name",
+      "type": "nominal",
+      "axis": {
+        "title": "Team Name"
+      },
+      "sort": {
+        "field": "transfer_fee_amnt",
+        "order": "descending"
+      }
+    },
+    "y": {
+      "aggregate": "sum",
+      "field": "transfer_fee_amnt",
+      "type": "quantitative",
+      "title": "Total Transfer Spend ($)"
+    },
+    "tooltip": [
+      { "field": "team_name", "type": "nominal", "title": "Team Name" },
+      {
+        "field": "transfer_fee_amnt",
+        "aggregate": "sum",
+        "type": "quantitative",
+        "title": "Transfer Amount"
+      },
+      { "field": "league", "type": "nominal", "title": "League" }
+    ],
+    "color": {
+      "field": "league",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Premier League",
+          "Bundesliga",
+          "La Liga",
+          "Ligue 1",
+          "Serie A"
+        ],
+        "range": ["purple", "red", "gold", "navy", "turquoise"]
+      }
+    }
+  }
+}

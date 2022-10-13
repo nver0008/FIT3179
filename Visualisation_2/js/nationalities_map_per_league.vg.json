@@ -1,0 +1,154 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "A configurable map of countries of the world.",
+  "width": 900,
+  "height": 500,
+  "autosize": "none",
+  "signals": [
+    { "name": "tx", "update": "width / 2" },
+    { "name": "ty", "update": "height / 2" },
+    { "name": "invert", "value": true },
+    { "name": "borderWidth", "value": 1 },
+    { "name": "background", "value": "#000" },
+    {
+      "name": "scale",
+      "value": 150,
+      "on": [
+        {
+          "events": { "type": "wheel", "consume": true },
+          "update": "clamp(scale * pow(1.0005, -event.deltaY * pow(16, event.deltaMode)), 150, 3000)"
+        }
+      ]
+    },
+    {
+      "name": "angles",
+      "value": [0, 0],
+      "on": [
+        {
+          "events": "mousedown",
+          "update": "[rotateX, centerY]"
+        }
+      ]
+    },
+    {
+      "name": "cloned",
+      "value": null,
+      "on": [
+        {
+          "events": "mousedown",
+          "update": "copy('projection')"
+        }
+      ]
+    },
+    {
+      "name": "start",
+      "value": null,
+      "on": [
+        {
+          "events": "mousedown",
+          "update": "invert(cloned, xy())"
+        }
+      ]
+    },
+    {
+      "name": "drag",
+      "value": null,
+      "on": [
+        {
+          "events": "[mousedown, window:mouseup] > window:mousemove",
+          "update": "invert(cloned, xy())"
+        }
+      ]
+    },
+    {
+      "name": "delta",
+      "value": null,
+      "on": [
+        {
+          "events": { "signal": "drag" },
+          "update": "[drag[0] - start[0], start[1] - drag[1]]"
+        }
+      ]
+    },
+    {
+      "name": "rotateX",
+      "value": 0,
+      "on": [
+        {
+          "events": { "signal": "delta" },
+          "update": "angles[0] + delta[0]"
+        }
+      ]
+    },
+    {
+      "name": "centerY",
+      "value": 0,
+      "on": [
+        {
+          "events": { "signal": "delta" },
+          "update": "clamp(angles[1] + delta[1], -60, 60)"
+        }
+      ]
+    }
+  ],
+
+  "projections": [
+    {
+      "name": "projection",
+      "type": "mercator",
+      "scale": { "signal": "scale" },
+      "rotate": [{ "signal": "rotateX" }, 0, 0],
+      "center": [0, { "signal": "centerY" }],
+      "translate": [{ "signal": "tx" }, { "signal": "ty" }]
+    }
+  ],
+
+  "data": [
+    {
+      "name": "world",
+      "url": "data/ne_110m_admin_0_countries.topojson",
+      "format": {
+        "type": "topojson",
+        "feature": "ne_110m_admin_0_countries"
+      }
+    },
+    { "name": "top_5_in", "url": "data/transfers-2021-top5_in.json" }
+  ],
+  "transform": [
+    {
+      "lookup": "properties.NAME",
+      "from": {
+        "data": "top_5_in",
+        "key": "team_country",
+        "fields": ["transfer_fee_amnt"]
+      }
+    }
+  ],
+
+  "marks": [
+    {
+      "type": "shape",
+      "from": { "data": "world" },
+      "encode": {
+        "update": {
+          "strokeWidth": { "signal": "+borderWidth" },
+          "stroke": { "signal": "invert ? '#777' : '#bbb'" },
+          "fill": { "signal": "invert ? '#fff' : '#000'" },
+          "zindex": { "value": 0 }
+        },
+        "hover": {
+          "strokeWidth": { "signal": "+borderWidth + 1" },
+          "stroke": { "value": "firebrick" },
+          "zindex": { "value": 1 }
+        },
+        "color": {
+          "field": "transfer_fee_amnt",
+          "aggregate": "mean",
+          "type": "quantitative",
+          "scale": { "type": "linear" }
+        }
+      },
+      "transform": [{ "type": "geoshape", "projection": "projection" }]
+    }
+  ]
+}

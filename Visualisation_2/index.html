@@ -7,48 +7,64 @@
     <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+    <link rel="stylesheet" href="/Visualisation_2/css/styles.css" />
 
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap"
+      rel="stylesheet"
+    />
 
     <title>Data Visualisation 2</title>
 
     <script type="text/javascript">
-      var data_location = "data/team_stats.csv";
-
-      var spec1 = "js/basic_bar_chart.vg.json";
-
-      vegaEmbed("#basic_bar_chart", spec1)
+      var spec1 = "js/top_10_transfers.vg.json";
+      vegaEmbed("#top_10_transfers", spec1)
         .then(function (result) {})
         .catch(console.error);
 
-      var spec2 = "js/interactive_bar_chart.vg.json";
-      vegaEmbed("#interactive_bar_chart", spec2)
+      var spec2 = "js/top_clubs_transfer_spend.vg.json";
+      vegaEmbed("#top_clubs_spend", spec2)
+        .then(function (result) {})
+        .catch(console.error);
+
+      var spec3 = "js/nationalities_map_per_league_2.vg.json";
+      vegaEmbed("#nationalities_map", spec3)
         .then(function (result) {})
         .catch(console.error);
     </script>
   </head>
 
   <body>
-    <div id="text_div">
-      <h1>Data Visualisation 2: European Football 2021-22 Season Recap</h1>
-      <p>
-        This week, the focus was bringing in an interactive chart into some
-        page. This week I have selected to look at filtering out data based on
-        some input, like a dropdown menu.
-      </p>
-      <h2>Basic Bar Chart</h2>
-      <p>
-        Here, we have a boring old bar chart. No filter, no legend, no
-        understanding of what is going on.
-      </p>
+    <h1>European Football 2021-22 Season Recap</h1>
+    <p id="intro">
+      This visualisation provides a recap on the most recent complete football
+      season, 2021-22. It contains information on all the winners, losers, and
+      transfer market movement.
+    </p>
+    <h2>Transfer Movements</h2>
+    <p>
+      In this section we will come to understand players and which clubs they
+      moved to during the 2021 transfer windows.
+    </p>
+    <h3>Top Transfers of 2021</h3>
+    <div>
+      <div id="top_10_transfers"></div>
+      <div id="top_clubs_spend"></div>
     </div>
-    <div id="basic_bar_chart"></div>
-    <h2>Interactive Bar Chart</h2>
-    <div id="text_div">
-      <p>
-        Now, we can filter which team achieves more victories accross time, filter by team, and the colours make more sense as they are assigned to each team.
-        There are also annotations showing the data.
-      </p>
-    <div id="interactive_bar_chart"></div>
+    <h2>Nationalities</h2>
+    <p>
+      In this section we take look at players Nationalities within each league
+      and see where they tend to be located from.
+    </p>
+    <h3>Nationalities per League</h3>
+    <p>
+      Here we have an interactive map to show where players have come from in
+      each league.
+    </p>
+    <div>
+      <div id="nationalities_map"></div>
+    </div>
   </body>
 </html>
