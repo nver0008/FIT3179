@@ -25,7 +25,7 @@
     },
     {
       "joinaggregate": [{ "op": "count", "as": "Number of Players" }],
-      "groupby": ["Nation", "Comp"]
+      "groupby": ["Comp"]
     }
   ],
   "params": [
@@ -51,7 +51,7 @@
     "color": {
       "field": "Number of Players",
       "type": "quantitative",
-      "scale": { "type": "linear" }
+      "scale": { "type": "log" }
     },
     "tooltip": [
       { "field": "properties.NAME", "type": "nominal", "title": "Country" },
