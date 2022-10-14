@@ -1,0 +1,492 @@
+[
+ {
+   "League": "Bundesliga",
+   "Team": "1. FC Köln",
+   "Transfer Sum": 250000
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "1.FC Union Berlin",
+   "Transfer Sum": 13900000
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "1.FSV Mainz 05",
+   "Transfer Sum": 6600000
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "Arminia Bielefeld",
+   "Transfer Sum": 8000000
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "Bayer 04 Leverkusen",
+   "Transfer Sum": 52850000
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "Bayern Munich",
+   "Transfer Sum": 57500000
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "Borussia Dortmund",
+   "Transfer Sum": 45000000
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "Borussia Mönchengladbach",
+   "Transfer Sum": 11500000
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "Eintracht Frankfurt",
+   "Transfer Sum": 7850000
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "FC Augsburg",
+   "Transfer Sum": 7700000
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "Hertha BSC",
+   "Transfer Sum": 25600000
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "RB Leipzig",
+   "Transfer Sum": 107620000
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "SC Freiburg",
+   "Transfer Sum": 5000000
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "SpVgg Greuther Fürth",
+   "Transfer Sum": 1300000
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "TSG 1899 Hoffenheim",
+   "Transfer Sum": 0
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "VfB Stuttgart",
+   "Transfer Sum": 15350000
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "VfL Bochum",
+   "Transfer Sum": 0
+ },
+ {
+   "League": "Bundesliga",
+   "Team": "VfL Wolfsburg",
+   "Transfer Sum": 52500000
+ },
+ {
+   "League": "La Liga",
+   "Team": "Athletic Bilbao",
+   "Transfer Sum": 0
+ },
+ {
+   "League": "La Liga",
+   "Team": "Atlético de Madrid",
+   "Transfer Sum": 71000000
+ },
+ {
+   "League": "La Liga",
+   "Team": "CA Osasuna",
+   "Transfer Sum": 8700000
+ },
+ {
+   "League": "La Liga",
+   "Team": "Cádiz CF",
+   "Transfer Sum": 6600000
+ },
+ {
+   "League": "La Liga",
+   "Team": "Celta de Vigo",
+   "Transfer Sum": 8600000
+ },
+ {
+   "League": "La Liga",
+   "Team": "Deportivo Alavés",
+   "Transfer Sum": 1150000
+ },
+ {
+   "League": "La Liga",
+   "Team": "Elche CF",
+   "Transfer Sum": 7200000
+ },
+ {
+   "League": "La Liga",
+   "Team": "FC Barcelona",
+   "Transfer Sum": 14500000
+ },
+ {
+   "League": "La Liga",
+   "Team": "Getafe CF",
+   "Transfer Sum": 15500000
+ },
+ {
+   "League": "La Liga",
+   "Team": "Granada CF",
+   "Transfer Sum": 4500000
+ },
+ {
+   "League": "La Liga",
+   "Team": "Levante UD",
+   "Transfer Sum": 1250000
+ },
+ {
+   "League": "La Liga",
+   "Team": "Rayo Vallecano",
+   "Transfer Sum": 4300000
+ },
+ {
+   "League": "La Liga",
+   "Team": "RCD Espanyol Barcelona",
+   "Transfer Sum": 5500000
+ },
+ {
+   "League": "La Liga",
+   "Team": "RCD Mallorca",
+   "Transfer Sum": 9500000
+ },
+ {
+   "League": "La Liga",
+   "Team": "Real Betis Balompié",
+   "Transfer Sum": 3500000
+ },
+ {
+   "League": "La Liga",
+   "Team": "Real Madrid",
+   "Transfer Sum": 31000000
+ },
+ {
+   "League": "La Liga",
+   "Team": "Real Sociedad",
+   "Transfer Sum": 2500000
+ },
+ {
+   "League": "La Liga",
+   "Team": "Sevilla FC",
+   "Transfer Sum": 38500000
+ },
+ {
+   "League": "La Liga",
+   "Team": "Valencia CF",
+   "Transfer Sum": 11200000
+ },
+ {
+   "League": "La Liga",
+   "Team": "Villarreal CF",
+   "Transfer Sum": 54500000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "AS Monaco",
+   "Transfer Sum": 34500000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "AS Saint-Étienne",
+   "Transfer Sum": 300000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "Clermont Foot 63",
+   "Transfer Sum": 0
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "ESTAC Troyes",
+   "Transfer Sum": 18100000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "FC Girondins Bordeaux",
+   "Transfer Sum": 8800000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "FC Lorient",
+   "Transfer Sum": 6000000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "FC Metz",
+   "Transfer Sum": 0
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "FC Nantes",
+   "Transfer Sum": 7500000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "LOSC Lille",
+   "Transfer Sum": 13000000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "Montpellier HSC",
+   "Transfer Sum": 200000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "OGC Nice",
+   "Transfer Sum": 48000000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "Olympique Lyon",
+   "Transfer Sum": 6500000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "Olympique Marseille",
+   "Transfer Sum": 60620000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "Paris Saint-Germain",
+   "Transfer Sum": 83000000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "RC Lens",
+   "Transfer Sum": 16100000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "RC Strasbourg Alsace",
+   "Transfer Sum": 3000000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "SCO Angers",
+   "Transfer Sum": 0
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "Stade Brestois 29",
+   "Transfer Sum": 9500000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "Stade Reims",
+   "Transfer Sum": 6000000
+ },
+ {
+   "League": "Ligue 1",
+   "Team": "Stade Rennais FC",
+   "Transfer Sum": 79500000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Arsenal FC",
+   "Transfer Sum": 165600000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Aston Villa",
+   "Transfer Sum": 99820000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Brentford FC",
+   "Transfer Sum": 38200000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Brighton & Hove Albion",
+   "Transfer Sum": 55700000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Burnley FC",
+   "Transfer Sum": 31900000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Chelsea FC",
+   "Transfer Sum": 120000000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Crystal Palace",
+   "Transfer Sum": 73440000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Everton FC",
+   "Transfer Sum": 2000000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Leeds United",
+   "Transfer Sum": 58900000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Leicester City",
+   "Transfer Sum": 67600000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Liverpool FC",
+   "Transfer Sum": 40000000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Manchester City",
+   "Transfer Sum": 127500000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Manchester United",
+   "Transfer Sum": 140000000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Newcastle United",
+   "Transfer Sum": 29400000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Norwich City",
+   "Transfer Sum": 66150000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Southampton FC",
+   "Transfer Sum": 43100000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Tottenham Hotspur",
+   "Transfer Sum": 66900000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Watford FC",
+   "Transfer Sum": 25800000
+ },
+ {
+   "League": "Premier League",
+   "Team": "West Ham United",
+   "Transfer Sum": 74500000
+ },
+ {
+   "League": "Premier League",
+   "Team": "Wolverhampton Wanderers",
+   "Transfer Sum": 32300000
+ },
+ {
+   "League": "Serie A",
+   "Team": "AC Milan",
+   "Transfer Sum": 73600000
+ },
+ {
+   "League": "Serie A",
+   "Team": "ACF Fiorentina",
+   "Transfer Sum": 30500000
+ },
+ {
+   "League": "Serie A",
+   "Team": "AS Roma",
+   "Transfer Sum": 124250000
+ },
+ {
+   "League": "Serie A",
+   "Team": "Atalanta BC",
+   "Transfer Sum": 68000000
+ },
+ {
+   "League": "Serie A",
+   "Team": "Bologna FC 1909",
+   "Transfer Sum": 26410000
+ },
+ {
+   "League": "Serie A",
+   "Team": "Cagliari Calcio",
+   "Transfer Sum": 14000000
+ },
+ {
+   "League": "Serie A",
+   "Team": "FC Empoli",
+   "Transfer Sum": 9800000
+ },
+ {
+   "League": "Serie A",
+   "Team": "Genoa CFC",
+   "Transfer Sum": 20800000
+ },
+ {
+   "League": "Serie A",
+   "Team": "Hellas Verona",
+   "Transfer Sum": 33500000
+ },
+ {
+   "League": "Serie A",
+   "Team": "Inter Milan",
+   "Transfer Sum": 36000000
+ },
+ {
+   "League": "Serie A",
+   "Team": "Juventus FC",
+   "Transfer Sum": 30900000
+ },
+ {
+   "League": "Serie A",
+   "Team": "Spezia Calcio",
+   "Transfer Sum": 24300000
+ },
+ {
+   "League": "Serie A",
+   "Team": "SS Lazio",
+   "Transfer Sum": 12760000
+ },
+ {
+   "League": "Serie A",
+   "Team": "SSC Napoli",
+   "Transfer Sum": 19600000
+ },
+ {
+   "League": "Serie A",
+   "Team": "Torino FC",
+   "Transfer Sum": 9400000
+ },
+ {
+   "League": "Serie A",
+   "Team": "UC Sampdoria",
+   "Transfer Sum": 14500000
+ },
+ {
+   "League": "Serie A",
+   "Team": "Udinese Calcio",
+   "Transfer Sum": 9300000
+ },
+ {
+   "League": "Serie A",
+   "Team": "US Salernitana 1919",
+   "Transfer Sum": 3300000
+ },
+ {
+   "League": "Serie A",
+   "Team": "US Sassuolo",
+   "Transfer Sum": 30750000
+ },
+ {
+   "League": "Serie A",
+   "Team": "Venezia FC",
+   "Transfer Sum": 17090000
+ }
+]

@@ -1,0 +1,91 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 450,
+  "height": 400,
+  "data": {
+    "url": "data/top5-clubs-transfers.json"
+  },
+
+  "params": [
+    {
+      "name": "League_Filter",
+      "value": "All",
+      "bind": {
+        "input": "select",
+        "options": [
+          "All",
+          "Premier League",
+          "Bundesliga",
+          "La Liga",
+          "Ligue 1",
+          "Serie A"
+        ],
+        "name": "League Filter: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "window": [
+        {
+          "op": "rank",
+          "as": "rank"
+        }
+      ],
+      "sort": [
+        {
+          "field": "Transfer Sum",
+          "order": "descending"
+        }
+      ]
+    },
+    {
+      "filter": "League_Filter == 'All' ? datum.League != League_Filter && datum.rank < 21 : datum.League == League_Filter"
+    }
+  ],
+  "title": ["Transfer Expenditure by Club"],
+  "mark": { "type": "bar" },
+  "encoding": {
+    "y": {
+      "field": "Team",
+      "type": "nominal",
+      "axis": {
+        "title": "Team Name"
+      },
+      "sort": {
+        "field": "Transfer Sum",
+        "order": "descending"
+      }
+    },
+    "x": {
+      "field": "Transfer Sum",
+      "type": "quantitative",
+      "title": "Total Transfer Expenditure ($)"
+    },
+    "tooltip": [
+      { "field": "Team", "type": "nominal", "title": "Team Name" },
+      {
+        "field": "Transfer Sum",
+        "type": "quantitative",
+        "title": "Transfer Expenditure ($)",
+        "format": "$,"
+      }
+    ],
+    "color": {
+      "field": "League",
+      "title": "League",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Premier League",
+          "Bundesliga",
+          "La Liga",
+          "Ligue 1",
+          "Serie A"
+        ],
+        "range": ["purple", "red", "gold", "navy", "turquoise"]
+      },
+      "legend": null
+    }
+  }
+}

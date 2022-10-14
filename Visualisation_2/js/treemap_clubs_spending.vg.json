@@ -1,12 +1,13 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "width": 500,
-  "height": 500,
+  "width": 400,
+  "height": 400,
+  "title": "Top 5 Leagues Total Expenditure 2021",
   "data": [
     {
       "name": "transfers_in",
-      "url": "data/top5-clubs-transfers.csv",
-      "format": { "type": "csv" },
+      "url": "data/top5-clubs-transfers.json",
+      "format": { "type": "json" },
       "transform": [
         { "type": "nest", "keys": ["League", "Team"] },
         {
@@ -34,7 +35,6 @@
       "range": ["purple", "red", "gold", "navy", "turquoise"]
     }
   ],
-
   "marks": [
     {
       "type": "rect",
@@ -45,9 +45,35 @@
           "x": { "field": "x0" },
           "x2": { "field": "x1" },
           "y": { "field": "y0" },
-          "y2": { "field": "y1" }
+          "y2": { "field": "y1" },
+          "tooltip": {
+            "signal": "{'title': datum.Team, 'League': datum.League, 'Total Transfer Fees': datum['Transfer Sum']}"
+          }
+        }
+      }
+    }
+  ],
+  "legends": [
+    {
+      "fill": "color",
+      "encode": {
+        "title": {
+          "name": "Legend",
+          "update": {
+            "fontSize": { "value": 14 }
+          }
         },
-        "tooltip": { "field": "League" }
+        "labels": {
+          "update": {
+            "fontSize": { "value": 12 },
+            "fill": { "value": "black" }
+          }
+        },
+        "symbols": {
+          "update": {
+            "stroke": { "value": "transparent" }
+          }
+        }
       }
     }
   ]

@@ -1,11 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 500,
+  "width": 800,
   "height": 300,
   "data": {
     "url": "data/transfers-2021-top5_in.json"
   },
-  "title": ["Highest Spenders in 2021 by Club"],
+  "title": ["Top 30 Highest Transfer Fees by Player and League"],
   "transform": [
     {
       "window": [
@@ -14,7 +14,6 @@
           "as": "rank"
         }
       ],
-      "groupby": ["team_name"],
       "sort": [
         {
           "field": "transfer_fee_amnt",
@@ -23,16 +22,16 @@
       ]
     },
     {
-      "filter": "datum.rank < 200"
+      "filter": "datum.rank < 30"
     }
   ],
   "mark": { "type": "bar" },
   "encoding": {
     "x": {
-      "field": "team_name",
+      "field": "player_name",
       "type": "nominal",
       "axis": {
-        "title": "Team Name"
+        "title": "Player Name"
       },
       "sort": {
         "field": "transfer_fee_amnt",
@@ -40,23 +39,23 @@
       }
     },
     "y": {
-      "aggregate": "sum",
       "field": "transfer_fee_amnt",
       "type": "quantitative",
-      "title": "Total Transfer Spend ($)"
+      "title": "Transfer Amount ($)"
     },
     "tooltip": [
-      { "field": "team_name", "type": "nominal", "title": "Team Name" },
+      { "field": "player_name", "type": "nominal", "title": "Player Name" },
       {
         "field": "transfer_fee_amnt",
-        "aggregate": "sum",
         "type": "quantitative",
         "title": "Transfer Amount"
       },
+      { "field": "team_name", "type": "nominal", "title": "Club Name" },
       { "field": "league", "type": "nominal", "title": "League" }
     ],
     "color": {
       "field": "league",
+      "title": "League",
       "type": "nominal",
       "scale": {
         "domain": [
