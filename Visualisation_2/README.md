@@ -1,4 +1,4 @@
-# transfers
+# Transfers
 
 Data on European football clubs' player transfers, through 1992/93 to 2021/22 seasons (as found on [Transfermarkt](https://www.transfermarkt.co.uk/)).
 
@@ -22,17 +22,16 @@ Transfers can be found in the `data/` directory, in .csv format. There's a file 
 
 Common variables:
 
-| Header | Description | Data Type |
-| --- | --- | --- |
-| `club_name` | name of club | text |
-| `player_name` | name of player | text |
-| `position` | position of player | text |
-| `club_involved_name` | name of secondary club involved in transfer | text |
-| `fee` | raw transfer fee information | text |
-| `transfer_movement` | transfer into club or out of club? | text |
-| `transfer_period` | transfer window (summer or winter) | text |
-| `fee_cleaned` | numeric transformation of `fee`, in EUR millions| numeric |
-| `league_name` | name of league `club_name` belongs to | text |
-| `year` | year of transfer | text |
-| `season` | season of transfer (interpolated from `year`) | text |
-
+| Header               | Description                                      | Data Type |
+| -------------------- | ------------------------------------------------ | --------- |
+| `club_name`          | name of club                                     | text      |
+| `player_name`        | name of player                                   | text      |
+| `position`           | position of player                               | text      |
+| `club_involved_name` | name of secondary club involved in transfer      | text      |
+| `fee`                | raw transfer fee information                     | text      |
+| `transfer_movement`  | transfer into club or out of club?               | text      |
+| `transfer_period`    | transfer window (summer or winter)               | text      |
+| `fee_cleaned`        | numeric transformation of `fee`, in EUR millions | numeric   |
+| `league_name`        | name of league `club_name` belongs to            | text      |
+| `year`               | year of transfer                                 | text      |
+| `season`             | season of transfer (interpolated from `year`)    | text      |
