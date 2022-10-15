@@ -1,0 +1,482 @@
+Nation,Comp,Count of Player
+ALB,Bundesliga,0
+ALB,La Liga,3
+ALB,Ligue 1,0
+ALB,Premier League,1
+ALB,Serie A,10
+ANG,Bundesliga,1
+ANG,La Liga,1
+ANG,Ligue 1,0
+ANG,Premier League,1
+ANG,Serie A,1
+ARG,Bundesliga,3
+ARG,La Liga,33
+ARG,Ligue 1,8
+ARG,Premier League,8
+ARG,Serie A,21
+ARM,Bundesliga,1
+ARM,La Liga,1
+ARM,Ligue 1,0
+ARM,Premier League,0
+ARM,Serie A,1
+AUS,Bundesliga,1
+AUS,La Liga,1
+AUS,Ligue 1,0
+AUS,Premier League,0
+AUS,Serie A,1
+AUT,Bundesliga,26
+AUT,La Liga,2
+AUT,Ligue 1,3
+AUT,Premier League,1
+AUT,Serie A,4
+BEL,Bundesliga,12
+BEL,La Liga,5
+BEL,Ligue 1,9
+BEL,Premier League,10
+BEL,Serie A,6
+BEN,Bundesliga,0
+BEN,La Liga,0
+BEN,Ligue 1,3
+BEN,Premier League,0
+BEN,Serie A,0
+BFA,Bundesliga,1
+BFA,La Liga,0
+BFA,Ligue 1,2
+BFA,Premier League,1
+BFA,Serie A,0
+BGR,Serie A,1
+BIH,Bundesliga,2
+BIH,La Liga,0
+BIH,Ligue 1,3
+BIH,Premier League,2
+BIH,Serie A,5
+BRA,Bundesliga,7
+BRA,La Liga,19
+BRA,Ligue 1,27
+BRA,Premier League,27
+BRA,Serie A,24
+CAN,Bundesliga,1
+CAN,La Liga,0
+CAN,Ligue 1,2
+CAN,Premier League,0
+CAN,Serie A,0
+CGO,Bundesliga,1
+CGO,La Liga,0
+CGO,Ligue 1,2
+CGO,Premier League,0
+CGO,Serie A,0
+CHA,Bundesliga,0
+CHA,La Liga,0
+CHA,Ligue 1,1
+CHA,Premier League,0
+CHA,Serie A,0
+CHE,Bundesliga,19
+CHE,La Liga,1
+CHE,Ligue 1,5
+CHE,Premier League,2
+CHE,Serie A,7
+CHL,Bundesliga,1
+CHL,La Liga,3
+CHL,Ligue 1,1
+CHL,Premier League,1
+CHL,Serie A,5
+CHN,Bundesliga,0
+CHN,La Liga,1
+CHN,Ligue 1,0
+CHN,Premier League,0
+CHN,Serie A,0
+CIV,Bundesliga,1
+CIV,La Liga,3
+CIV,Ligue 1,13
+CIV,Premier League,7
+CIV,Serie A,10
+CMR,Bundesliga,1
+CMR,La Liga,2
+CMR,Ligue 1,14
+CMR,Premier League,2
+CMR,Serie A,4
+COD,Bundesliga,1
+COD,La Liga,0
+COD,Ligue 1,4
+COD,Premier League,3
+COD,Serie A,0
+COL,Bundesliga,1
+COL,La Liga,8
+COL,Ligue 1,1
+COL,Premier League,5
+COL,Serie A,6
+CRI,Bundesliga,1
+CRI,La Liga,1
+CRI,Ligue 1,1
+CRI,Premier League,0
+CRI,Serie A,0
+CTA,Bundesliga,0
+CTA,La Liga,1
+CTA,Ligue 1,1
+CTA,Premier League,0
+CTA,Serie A,0
+CYP,Bundesliga,0
+CYP,La Liga,0
+CYP,Ligue 1,0
+CYP,Premier League,0
+CYP,Serie A,1
+CZE,Bundesliga,5
+CZE,La Liga,1
+CZE,Ligue 1,0
+CZE,Premier League,4
+CZE,Serie A,3
+DEN,Bundesliga,15
+DEN,La Liga,5
+DEN,Ligue 1,1
+DEN,Premier League,14
+DEN,Serie A,7
+DEU,Bundesliga,221
+DEU,La Liga,3
+DEU,Ligue 1,8
+DEU,Premier League,10
+DEU,Serie A,10
+DOM,Bundesliga,0
+DOM,La Liga,2
+DOM,Ligue 1,0
+DOM,Premier League,0
+DOM,Serie A,0
+DZA,Bundesliga,2
+DZA,La Liga,1
+DZA,Ligue 1,16
+DZA,Premier League,2
+DZA,Serie A,4
+ECU,Bundesliga,2
+ECU,La Liga,1
+ECU,Ligue 1,0
+ECU,Premier League,2
+ECU,Serie A,2
+EGY,Bundesliga,2
+EGY,La Liga,0
+EGY,Ligue 1,0
+EGY,Premier League,3
+EGY,Serie A,0
+ESP,Bundesliga,8
+ESP,La Liga,368
+ESP,Ligue 1,12
+ESP,Premier League,30
+ESP,Serie A,17
+FIN,Bundesliga,3
+FIN,La Liga,0
+FIN,Ligue 1,1
+FIN,Premier League,2
+FIN,Serie A,2
+FRA,Bundesliga,36
+FRA,La Liga,26
+FRA,Ligue 1,285
+FRA,Premier League,31
+FRA,Serie A,24
+GAB,Bundesliga,0
+GAB,La Liga,1
+GAB,Ligue 1,3
+GAB,Premier League,1
+GAB,Serie A,0
+GBR,Bundesliga,6
+GBR,La Liga,2
+GBR,Ligue 1,6
+GBR,Premier League,232
+GBR,Serie A,10
+GEO,Bundesliga,0
+GEO,La Liga,1
+GEO,Ligue 1,1
+GEO,Premier League,0
+GEO,Serie A,0
+GHA,Bundesliga,4
+GHA,La Liga,3
+GHA,Ligue 1,6
+GHA,Premier League,6
+GHA,Serie A,5
+GIN,Bundesliga,1
+GIN,La Liga,1
+GIN,Ligue 1,5
+GIN,Premier League,1
+GIN,Serie A,2
+GMB,Bundesliga,0
+GMB,La Liga,0
+GMB,Ligue 1,0
+GMB,Premier League,0
+GMB,Serie A,4
+GNB,Bundesliga,0
+GNB,La Liga,0
+GNB,Ligue 1,3
+GNB,Premier League,0
+GNB,Serie A,2
+GNQ,La Liga,3
+GNQ,Ligue 1,0
+GNQ,Premier League,0
+GNQ,Premier League,0
+GNQ,Serie A,0
+GRC,Bundesliga,6
+GRC,La Liga,0
+GRC,Ligue 1,1
+GRC,Premier League,3
+GRC,Serie A,7
+GRN,Bundesliga,0
+GRN,La Liga,0
+GRN,Ligue 1,0
+GRN,Premier League,1
+GRN,Serie A,0
+GUF,Bundesliga,0
+GUF,La Liga,0
+GUF,Ligue 1,2
+GUF,Premier League,0
+GUF,Serie A,0
+HND,Bundesliga,0
+HND,La Liga,1
+HND,Ligue 1,1
+HND,Premier League,0
+HND,Serie A,0
+HRV,Bundesliga,9
+HRV,La Liga,4
+HRV,Ligue 1,6
+HRV,Premier League,2
+HRV,Serie A,16
+HUN,Bundesliga,7
+HUN,La Liga,0
+HUN,Ligue 1,0
+HUN,Premier League,0
+HUN,Serie A,0
+IRL,Bundesliga,1
+IRL,La Liga,0
+IRL,Ligue 1,0
+IRL,Premier League,14
+IRL,Serie A,0
+IRN,Bundesliga,1
+IRN,La Liga,0
+IRN,Ligue 1,0
+IRN,Premier League,1
+IRN,Serie A,0
+ISL,Bundesliga,1
+ISL,La Liga,0
+ISL,Ligue 1,0
+ISL,Premier League,1
+ISL,Serie A,4
+ISR,Bundesliga,1
+ISR,La Liga,0
+ISR,Ligue 1,0
+ISR,Premier League,0
+ISR,Serie A,2
+ITA,Bundesliga,2
+ITA,La Liga,1
+ITA,Ligue 1,4
+ITA,Premier League,4
+ITA,Serie A,245
+JAM,Bundesliga,0
+JAM,La Liga,0
+JAM,Ligue 1,0
+JAM,Premier League,3
+JAM,Serie A,0
+JPN,Bundesliga,8
+JPN,La Liga,1
+JPN,Ligue 1,1
+JPN,Premier League,2
+JPN,Serie A,2
+KOR,Bundesliga,4
+KOR,La Liga,1
+KOR,Ligue 1,2
+KOR,Premier League,2
+KOR,Serie A,0
+KOS,Bundesliga,1
+KOS,La Liga,1
+KOS,Ligue 1,4
+KOS,Premier League,1
+KOS,Serie A,3
+LUX,Bundesliga,2
+LUX,La Liga,0
+LUX,Ligue 1,1
+LUX,Premier League,0
+LUX,Serie A,1
+MAD,Bundesliga,0
+MAD,La Liga,0
+MAD,Ligue 1,2
+MAD,Premier League,0
+MAD,Serie A,0
+MAR,Bundesliga,2
+MAR,La Liga,7
+MAR,Ligue 1,10
+MAR,Premier League,4
+MAR,Serie A,4
+MEX,Bundesliga,0
+MEX,La Liga,7
+MEX,Ligue 1,0
+MEX,Premier League,1
+MEX,Serie A,2
+MKD,Bundesliga,0
+MKD,La Liga,2
+MKD,Ligue 1,0
+MKD,Premier League,0
+MKD,Serie A,3
+MLI,Bundesliga,3
+MLI,La Liga,0
+MLI,Ligue 1,19
+MLI,Premier League,3
+MLI,Serie A,1
+MNE,Bundesliga,1
+MNE,La Liga,4
+MNE,Ligue 1,1
+MNE,Premier League,0
+MNE,Serie A,1
+MOZ,Bundesliga,0
+MOZ,La Liga,1
+MOZ,Ligue 1,2
+MOZ,Premier League,0
+MOZ,Serie A,0
+MTQ,Bundesliga,0
+MTQ,La Liga,1
+MTQ,Ligue 1,1
+MTQ,Premier League,0
+MTQ,Serie A,0
+NGA,Bundesliga,5
+NGA,La Liga,1
+NGA,Ligue 1,5
+NGA,Premier League,9
+NGA,Serie A,8
+NLD,Bundesliga,27
+NLD,La Liga,7
+NLD,Ligue 1,13
+NLD,Premier League,16
+NLD,Serie A,17
+NOR,Bundesliga,6
+NOR,La Liga,1
+NOR,Ligue 1,3
+NOR,Premier League,7
+NOR,Serie A,9
+NZL,Bundesliga,0
+NZL,La Liga,0
+NZL,Ligue 1,0
+NZL,Premier League,2
+NZL,Serie A,1
+PAN,Bundesliga,1
+PAN,La Liga,0
+PAN,Ligue 1,0
+PAN,Premier League,0
+PAN,Serie A,0
+PER,Bundesliga,0
+PER,La Liga,2
+PER,Ligue 1,1
+PER,Premier League,0
+PER,Serie A,0
+PHI,Bundesliga,1
+PHI,La Liga,0
+PHI,Ligue 1,0
+PHI,Premier League,0
+PHI,Serie A,0
+POL,Bundesliga,7
+POL,La Liga,0
+POL,Ligue 1,4
+POL,Premier League,6
+POL,Serie A,17
+PRT,Bundesliga,5
+PRT,La Liga,10
+PRT,Ligue 1,14
+PRT,Premier League,21
+PRT,Serie A,8
+PRY,Bundesliga,0
+PRY,La Liga,2
+PRY,Ligue 1,0
+PRY,Premier League,1
+PRY,Serie A,2
+ROU,Bundesliga,0
+ROU,La Liga,2
+ROU,Ligue 1,0
+ROU,Premier League,0
+ROU,Serie A,9
+RUS,Bundesliga,1
+RUS,La Liga,2
+RUS,Ligue 1,1
+RUS,Premier League,0
+RUS,Serie A,2
+SEN,Bundesliga,1
+SEN,La Liga,8
+SEN,Ligue 1,27
+SEN,Premier League,5
+SEN,Serie A,6
+SLE,Bundesliga,0
+SLE,La Liga,0
+SLE,Ligue 1,0
+SLE,Premier League,0
+SLE,Serie A,1
+SRB,Bundesliga,4
+SRB,La Liga,11
+SRB,Ligue 1,4
+SRB,Premier League,2
+SRB,Serie A,16
+SUR,Bundesliga,1
+SUR,La Liga,0
+SUR,Ligue 1,0
+SUR,Premier League,0
+SUR,Serie A,1
+SVK,Bundesliga,3
+SVK,La Liga,2
+SVK,Ligue 1,0
+SVK,Premier League,2
+SVK,Serie A,7
+SVN,Bundesliga,1
+SVN,La Liga,1
+SVN,Ligue 1,0
+SVN,Premier League,0
+SVN,Serie A,6
+SWE,Bundesliga,5
+SWE,La Liga,4
+SWE,Ligue 1,2
+SWE,Premier League,7
+SWE,Serie A,6
+TGO,Bundesliga,1
+TGO,La Liga,1
+TGO,Ligue 1,2
+TGO,Premier League,0
+TGO,Serie A,0
+TUN,Bundesliga,2
+TUN,La Liga,0
+TUN,Ligue 1,5
+TUN,Premier League,1
+TUN,Serie A,1
+TUR,Bundesliga,3
+TUR,La Liga,3
+TUR,Ligue 1,5
+TUR,Premier League,4
+TUR,Serie A,5
+UKR,Bundesliga,0
+UKR,La Liga,1
+UKR,Ligue 1,2
+UKR,Premier League,3
+UKR,Serie A,3
+URY,Bundesliga,0
+URY,La Liga,17
+URY,Ligue 1,2
+URY,Premier League,2
+URY,Serie A,9
+USA,Bundesliga,13
+USA,La Liga,5
+USA,Ligue 1,4
+USA,Premier League,3
+USA,Serie A,5
+UZB,Bundesliga,0
+UZB,La Liga,0
+UZB,Ligue 1,0
+UZB,Premier League,0
+UZB,Serie A,1
+VEN,Bundesliga,1
+VEN,La Liga,2
+VEN,Ligue 1,1
+VEN,Premier League,1
+VEN,Serie A,2
+ZAF,Bundesliga,0
+ZAF,La Liga,0
+ZAF,Ligue 1,2
+ZAF,Premier League,0
+ZAF,Serie A,0
+ZIM,Bundesliga,0
+ZIM,La Liga,0
+ZIM,Ligue 1,2
+ZIM,Premier League,1
+ZIM,Serie A,0
+ZMB,Bundesliga,0
+ZMB,La Liga,0
+ZMB,Ligue 1,0
+ZMB,Premier League,2
+ZMB,Serie A,0
