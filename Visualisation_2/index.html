@@ -17,8 +17,8 @@
     <link rel="stylesheet" href="css/layout.css" type="text/css" />
 
     <script type="text/javascript">
-      var spec1 = "js/top_30_transfers.vg.json";
-      vegaEmbed("#top_30_transfers", spec1)
+      var spec1 = "js/top_transfers_2021.vg.json";
+      vegaEmbed("#top_transfers_2021", spec1)
         .then(function (result) {})
         .catch(console.error);
 
@@ -34,6 +34,21 @@
 
       var spec4 = "js/nationalities_map_per_league.vg.json";
       vegaEmbed("#nationalities_map", spec4)
+        .then(function (result) {})
+        .catch(console.error);
+
+      var spec5 = "js/nations_radial.vg.json";
+      vegaEmbed("#radial_chart", spec5)
+        .then(function (result) {})
+        .catch(console.error);
+
+      var spec6 = "js/historical_transfers.vg.json";
+      vegaEmbed("#historical_transfers", spec6)
+        .then(function (result) {})
+        .catch(console.error);
+
+      var spec7 = "js/historical_transfers_2.vg.json";
+      vegaEmbed("#historical_transfers2", spec7)
         .then(function (result) {})
         .catch(console.error);
     </script>
@@ -56,7 +71,7 @@
         <!-- main content -->
         <div id="homepage">
           <section id="top30transfer">
-            <div id="top_30_transfers"></div>
+            <div id="top_transfers_2021"></div>
           </section>
           <section id="info" class="clear">
             <h1>Most expensive transfers 2021:</h1>
@@ -320,213 +335,59 @@
               </article>
             </div>
           </section>
-          <section id="world_map">
+          <section id="info" class="clear">
             <div id="nationalities_map"></div>
+            <div id="radial_chart"></div>
+            <div id="nations_list">
+              <h1>Nations with Highest Player Count:</h1>
+              <ol>
+                <li>
+                  <img src="images/es.png" height="32" width="48" /> - Spain:
+                  435 Players
+                </li>
+                <li>
+                  <img src="images/fr.png" height="32" width="48" /> - France:
+                  402 Players
+                </li>
+                <li>
+                  <img src="images/gb.png" height="32" width="48" /> - United
+                  Kingdom: 256 Players
+                </li>
+                <li>
+                  <img src="images/it.png" height="32" width="48" /> - Italy:
+                  256 Players
+                </li>
+                <li>
+                  <img src="images/de.png" height="32" width="48" /> - Germany:
+                  252 Players
+                </li>
+                <li>
+                  <img src="images/br.png" height="32" width="48" /> - Brazil:
+                  104 Players
+                </li>
+                <li>
+                  <img src="images/nl.png" height="32" width="48" /> -
+                  Netherlands: 80 Players
+                </li>
+                <li>
+                  <img src="images/ar.png" height="32" width="48" /> -
+                  Argentina: 73 Players
+                </li>
+              </ol>
+            </div>
           </section>
           <section id="info" class="clear">
-            <h1>Most expensive transfers 2021:</h1>
-            <article class="one_quarter">
-              <figure>
-                <img
-                  src="images/jack_grealish_200px.jpg"
-                  width="64"
-                  height="64"
-                  alt=""
-                />
-              </figure>
-              <strong>JACK GREALISH</strong>
-              <p>
-                Signed from Aston Villa for a world record fee for an
-                Englishmen, Jack Grealish is now playing for Manchester City as
-                a creative attacking midfielder. His dazzling feet make him
-                difficult to stop and is the most fouled player in the division.
-              </p>
-              <ul>
-                <li><b>AGE:</b> 27</li>
-                <li><b>NATIONALITY:</b> England</li>
-                <li><b>CLUB:</b> Manchester City</li>
-                <li><b>LEAGUE:</b> Premier League</li>
-                <li><b>FEE:</b> €117,500,000</li>
-              </ul>
-              <p class="more">
-                <a href="https://en.wikipedia.org/wiki/Jack_Grealish"
-                  >Read More &raquo;</a
-                >
-              </p>
-            </article>
-            <article class="one_quarter">
-              <figure>
-                <img
-                  src="images/rom_lukaku_sqr.jpg"
-                  width="64"
-                  height="64"
-                  alt=""
-                />
-              </figure>
-              <strong>Romelu Lukaku</strong>
-              <p>
-                Signed from Inter Milan, the striker helped the Italian outfit
-                to their first title since 2010. The Belgian returns to Chelsea
-                for a club-record transfer fee, after previously leaving the
-                South London club for Everton in 2014. He also had a lergely
-                failed spell at Manchester United.
-              </p>
-              <ul>
-                <li><b>AGE:</b> 29</li>
-                <li><b>NATIONALITY:</b> Belgium</li>
-                <li><b>CLUB:</b> Chelsea FC</li>
-                <li><b>LEAGUE:</b> Premier League</li>
-                <li><b>FEE:</b> €115,000,000</li>
-              </ul>
-              <p class="more">
-                <a href="https://en.wikipedia.org/wiki/Romelu_Lukaku"
-                  >Read More &raquo;</a
-                >
-              </p>
-            </article>
-            <article class="one_quarter">
-              <figure>
-                <img
-                  src="images/jadon-sancho_sqr.jpg"
-                  width="64"
-                  height="64"
-                  alt=""
-                />
-              </figure>
-              <strong>Jadon Sancho</strong>
-              <p>
-                Signed from Borussia Dortmund, Jadon Sancho began his career at
-                famous Mancunian rivals Manchester City. He then made his move
-                to Germany, where he played at Borussia Dortmund for 4 years.
-                The versatile winger has 23 caps for the English National Team.
-              </p>
-              <ul>
-                <li><b>AGE:</b> 22</li>
-                <li><b>NATIONALITY:</b> England</li>
-                <li><b>CLUB:</b> Manchester United</li>
-                <li><b>LEAGUE:</b> Premier League</li>
-                <li><b>FEE:</b> €85,000,000</li>
-              </ul>
-              <p class="more">
-                <a href="https://en.wikipedia.org/wiki/Jadon_Sancho"
-                  >Read More &raquo;</a
-                >
-              </p>
-            </article>
-            <article class="one_quarter lastbox">
-              <figure>
-                <img
-                  src="images/achraf_hakimi_sqr.jpg"
-                  width="64"
-                  height="64"
-                  alt=""
-                />
-              </figure>
-              <strong>Achraf Hakimi</strong>
-              <p>
-                Achraf Hakimi is a Moroccon international footballer that was
-                also signed from Inter Milan in Italy. He started his career at
-                Real Madrid back in 2016, before a 2-year loan spell at German
-                outfit Borussia Dortmund. He is currently the world's most
-                expensive right back.
-              </p>
-              <ul>
-                <li><b>AGE:</b> 23</li>
-                <li><b>NATIONALITY:</b> Morocco</li>
-                <li><b>CLUB:</b> Paris Saint Germain</li>
-                <li><b>LEAGUE:</b> Ligue 1</li>
-                <li><b>FEE:</b> €60,000,000</li>
-              </ul>
-              <p class="more">
-                <a href="https://en.wikipedia.org/wiki/Achraf_Hakimi"
-                  >Read More &raquo;</a
-                >
-              </p>
-            </article>
+            <h1>Historical Transfers</h1>
+            <div id="historical_transfers"></div>
           </section>
         </div>
-        <!-- main content -->
-        <div id="content">
-          <section id="posts" class="last clear">
-            <ul>
-              <li>
-                <article class="clear">
-                  <figure>
-                    <img src="images/demo/180x150.gif" alt="" />
-                    <figcaption>
-                      <h2>Indonectetus facilis leo nibh</h2>
-                      <p>
-                        This is a W3C compliant free website template from
-                        <a
-                          href="https://www.os-templates.com/"
-                          title="Free Website Templates"
-                          >OS Templates</a
-                        >. For full terms of use of this template please read
-                        our
-                        <a href="https://www.os-templates.com/template-terms"
-                          >website template licence</a
-                        >.
-                      </p>
-                      <footer class="more">
-                        <a href="#">Read More &raquo;</a>
-                      </footer>
-                    </figcaption>
-                  </figure>
-                </article>
-              </li>
-              <li class="last">
-                <article class="clear">
-                  <figure>
-                    <img src="images/demo/180x150.gif" alt="" />
-                    <figcaption>
-                      <h2>Indonectetus facilis leo nibh</h2>
-                      <p>
-                        You can use and modify the template for both personal
-                        and commercial use. You must keep all copyright
-                        information and credit links in the template and
-                        associated files. For more HTML5 templates visit
-                        <a href="https://www.os-templates.com/"
-                          >free website templates</a
-                        >.
-                      </p>
-                      <footer class="more">
-                        <a href="#">Read More &raquo;</a>
-                      </footer>
-                    </figcaption>
-                  </figure>
-                </article>
-              </li>
-            </ul>
-          </section>
-        </div>
-        <!-- right column -->
-        <aside id="right_column">
-          <h2 class="title">Categories</h2>
-          <nav>
-            <ul>
-              <li><a href="#">Free Website Templates</a></li>
-              <li><a href="#">Free CSS Templates</a></li>
-              <li><a href="#">Free XHTML Templates</a></li>
-              <li><a href="#">Free Web Templates</a></li>
-              <li><a href="#">Free Website Layouts</a></li>
-              <li><a href="#">Free HTML 5 Templates</a></li>
-              <li><a href="#">Free Webdesign Templates</a></li>
-              <li><a href="#">Free FireWorks Templates</a></li>
-              <li><a href="#">Free PNG Templates</a></li>
-              <li class="last"><a href="#">Free Website Themes</a></li>
-            </ul>
-          </nav>
-          <!-- /nav -->
-        </aside>
-        <!-- / content body -->
       </div>
     </div>
     <!-- Footer -->
     <div class="wrapper row3">
       <footer id="footer" class="clear">
         <p class="fl_left">
-          Copyright &copy; 2018 - All Rights Reserved -
-          <a href="#">Domain Name</a>
+          FIT3179 Data Visualisation 2 - Niko Verrios, Oct 2022
         </p>
         <p class="fl_right">
           Template by

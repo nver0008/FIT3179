@@ -1,12 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Nations that Competed in the 2021-22 Season Across Top 5 Leagues",
-  "width": 800,
-  "height": 500,
-
-  "projection": { "type": "equalEarth" },
+  "width": 1100,
+  "height": 700,
   "data": {
-    "url": "data/ne_110m_admin_0_countries.topojson",
+    "url": "data/topojson/ne_110m_admin_0_countries.topojson",
     "format": { "type": "topojson", "feature": "ne_110m_admin_0_countries" }
   },
   "transform": [
@@ -14,41 +12,40 @@
       "lookup": "properties.ADM0_A3",
       "from": {
         "data": {
-          "url": "data/players_per_country.json"
+          "url": "data/player_total_per_country.json"
         },
         "key": "Nation",
         "fields": ["Count of Player", "Comp"]
       }
     },
-    {
-      "filter": "league_filter == 'All' ? datum.Comp != league_filter : datum.Comp == league_filter "
-    },
     { "calculate": "datum['Count of Player'] + 0.1", "as": "Number of Players" }
   ],
   "params": [
     {
-      "name": "league_filter",
-      "value": "All",
+      "name": "zoom_filter",
+      "value": "World",
       "bind": {
-        "input": "select",
-        "options": [
-          "All",
-          "Premier League",
-          "Bundesliga",
-          "La Liga",
-          "Ligue 1",
-          "Serie A"
-        ],
-        "name": "League Filter: "
+        "input": "radio",
+        "options": ["World", "Europe", "South America", "Africa"],
+        "name": "Zoom on Region: "
       }
     }
   ],
+  "projection": {
+    "type": "equalEarth",
+    "center": {
+      "expr": "zoom_filter == 'World' ? [25, 0] : zoom_filter == 'Europe' ? [15, 50] : zoom_filter == 'South America' ? [-60, -20] : [7, 0]"
+    },
+    "scale": {
+      "expr": "zoom_filter == 'World' ? 270 : zoom_filter == 'South America' ? 570 : zoom_filter == 'Africa' ? 530 : 1250"
+    }
+  },
   "mark": { "type": "geoshape" },
   "encoding": {
     "color": {
       "field": "Number of Players",
       "type": "quantitative",
-      "scale": { "type": "log" }
+      "scale": { "type": "log", "scheme": "purples" }
     },
     "tooltip": [
       { "field": "properties.NAME", "type": "nominal", "title": "Country" },

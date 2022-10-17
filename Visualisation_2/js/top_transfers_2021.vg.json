@@ -1,0 +1,74 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 1000,
+  "height": 300,
+  "data": {
+    "url": "data/transfers-2021-top5_in.json"
+  },
+  "title": ["Top 40 Highest Transfer Fees by Player and League"],
+  "transform": [
+    {
+      "window": [
+        {
+          "op": "rank",
+          "as": "rank"
+        }
+      ],
+      "sort": [
+        {
+          "field": "transfer_fee_amnt",
+          "order": "descending"
+        }
+      ]
+    },
+    {
+      "filter": "datum.rank < 40"
+    }
+  ],
+  "mark": { "type": "bar" },
+  "encoding": {
+    "x": {
+      "field": "player_name",
+      "type": "nominal",
+      "axis": {
+        "title": "Player Name"
+      },
+      "sort": {
+        "field": "transfer_fee_amnt",
+        "order": "descending"
+      }
+    },
+    "y": {
+      "field": "transfer_fee_amnt",
+      "type": "quantitative",
+      "title": "Transfer Amount (€)"
+    },
+    "tooltip": [
+      { "field": "player_name", "type": "nominal", "title": "Name" },
+      { "field": "player_nation", "type": "nominal", "title": "Nation" },
+      { "field": "team_name", "type": "nominal", "title": "Club" },
+      { "field": "league", "type": "nominal", "title": "League" },
+      {
+        "field": "transfer_fee_amnt",
+        "type": "quantitative",
+        "title": "Transfer Fee (€)",
+        "format": ","
+      }
+    ],
+    "color": {
+      "field": "league",
+      "title": "League",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Premier League",
+          "Bundesliga",
+          "La Liga",
+          "Ligue 1",
+          "Serie A"
+        ],
+        "range": ["purple", "red", "gold", "navy", "turquoise"]
+      }
+    }
+  }
+}

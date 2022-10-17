@@ -1,0 +1,77 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "data/players_per_country.json"
+  },
+  "height": 300,
+  "width": 300,
+  "title": "Number of Players per League based on Nation Filter",
+  "params": [
+    {
+      "name": "nation_filter",
+      "value": "ARG",
+      "bind": {
+        "input": "select",
+        "options": ["ARG", "BRA", "FRA", "DEU", "ITA", "NLD", "ESP", "GBR"],
+        "labels": [
+          "Argentina",
+          "Brazil",
+          "France",
+          "Germany",
+          "Italy",
+          "Netherlands",
+          "Spain",
+          "United Kingdom"
+        ],
+        "name": "Nation Filter: "
+      }
+    }
+  ],
+  "transform": [{ "filter": "datum.Nation == nation_filter" }],
+  "layer": [
+    {
+      "mark": { "type": "arc", "innerRadius": 20, "stroke": "#fff" }
+    },
+    {
+      "mark": { "type": "text", "radiusOffset": 10 },
+      "encoding": {
+        "text": { "field": "Count of Player", "type": "quantitative" }
+      }
+    }
+  ],
+  "encoding": {
+    "theta": {
+      "field": "Count of Player",
+      "type": "quantitative",
+      "stack": true
+    },
+    "radius": {
+      "field": "Count of Player",
+      "scale": { "type": "sqrt", "zero": true, "rangeMin": 20 }
+    },
+    "color": {
+      "field": "Comp",
+      "title": "League",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Premier League",
+          "Bundesliga",
+          "La Liga",
+          "Ligue 1",
+          "Serie A"
+        ],
+        "range": ["purple", "red", "gold", "navy", "turquoise"]
+      },
+      "legend": null
+    },
+    "tooltip": [
+      { "field": "Comp", "title": "League", "type": "nominal" },
+      {
+        "field": "Count of Player",
+        "title": "Number of Players",
+        "type": "quantitative"
+      }
+    ]
+  }
+}

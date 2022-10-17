@@ -60,15 +60,15 @@
     "x": {
       "field": "Transfer Sum",
       "type": "quantitative",
-      "title": "Total Transfer Expenditure ($)"
+      "title": "Total Transfer Expenditure (€)"
     },
     "tooltip": [
       { "field": "Team", "type": "nominal", "title": "Team Name" },
       {
         "field": "Transfer Sum",
         "type": "quantitative",
-        "title": "Transfer Expenditure ($)",
-        "format": "$,"
+        "title": "Transfer Expenditure (€)",
+        "format": ","
       }
     ],
     "color": {

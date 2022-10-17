@@ -47,7 +47,7 @@
           "y": { "field": "y0" },
           "y2": { "field": "y1" },
           "tooltip": {
-            "signal": "{'title': datum.Team, 'League': datum.League, 'Total Transfer Fees': datum['Transfer Sum']}"
+            "signal": "{'title': datum.Team, 'League': datum.League, 'Total Transfer Fees (€)': datum['Transfer Sum']}"
           }
         }
       }

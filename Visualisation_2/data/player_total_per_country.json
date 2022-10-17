@@ -1,0 +1,394 @@
+[
+  {
+    "Nation": "ALB",
+    "Count of Player": 14
+  },
+  {
+    "Nation": "ANG",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "ARG",
+    "Count of Player": 73
+  },
+  {
+    "Nation": "ARM",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "AUS",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "AUT",
+    "Count of Player": 36
+  },
+  {
+    "Nation": "BEL",
+    "Count of Player": 42
+  },
+  {
+    "Nation": "BEN",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "BFA",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "BGR",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "BIH",
+    "Count of Player": 12
+  },
+  {
+    "Nation": "BRA",
+    "Count of Player": 104
+  },
+  {
+    "Nation": "CAN",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "CGO",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "CHA",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CHE",
+    "Count of Player": 34
+  },
+  {
+    "Nation": "CHL",
+    "Count of Player": 11
+  },
+  {
+    "Nation": "CHN",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CIV",
+    "Count of Player": 34
+  },
+  {
+    "Nation": "CMR",
+    "Count of Player": 23
+  },
+  {
+    "Nation": "COD",
+    "Count of Player": 8
+  },
+  {
+    "Nation": "COL",
+    "Count of Player": 21
+  },
+  {
+    "Nation": "CRI",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "CTA",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "CYP",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CZE",
+    "Count of Player": 13
+  },
+  {
+    "Nation": "DNK",
+    "Count of Player": 42
+  },
+  {
+    "Nation": "DEU",
+    "Count of Player": 252
+  },
+  {
+    "Nation": "DOM",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "DZA",
+    "Count of Player": 25
+  },
+  {
+    "Nation": "ECU",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "EGY",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "ESP",
+    "Count of Player": 435
+  },
+  {
+    "Nation": "FIN",
+    "Count of Player": 8
+  },
+  {
+    "Nation": "FRA",
+    "Count of Player": 402
+  },
+  {
+    "Nation": "GAB",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "GBR",
+    "Count of Player": 256
+  },
+  {
+    "Nation": "GEO",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "GHA",
+    "Count of Player": 24
+  },
+  {
+    "Nation": "GIN",
+    "Count of Player": 10
+  },
+  {
+    "Nation": "GMB",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "GNB",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "GNQ",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "Grand Total",
+    "Count of Player": 2921
+  },
+  {
+    "Nation": "GRC",
+    "Count of Player": 17
+  },
+  {
+    "Nation": "GRN",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "GUF",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "HND",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "HRV",
+    "Count of Player": 37
+  },
+  {
+    "Nation": "HUN",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "IRL",
+    "Count of Player": 15
+  },
+  {
+    "Nation": "IRN",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "ISL",
+    "Count of Player": 6
+  },
+  {
+    "Nation": "ISR",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "ITA",
+    "Count of Player": 256
+  },
+  {
+    "Nation": "JAM",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "JPN",
+    "Count of Player": 14
+  },
+  {
+    "Nation": "KOR",
+    "Count of Player": 9
+  },
+  {
+    "Nation": "KOS",
+    "Count of Player": 10
+  },
+  {
+    "Nation": "LUX",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "MAD",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "MAR",
+    "Count of Player": 27
+  },
+  {
+    "Nation": "MEX",
+    "Count of Player": 10
+  },
+  {
+    "Nation": "MKD",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "MLI",
+    "Count of Player": 26
+  },
+  {
+    "Nation": "MNE",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "MOZ",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "MTQ",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "NGA",
+    "Count of Player": 28
+  },
+  {
+    "Nation": "NLD",
+    "Count of Player": 80
+  },
+  {
+    "Nation": "NOR",
+    "Count of Player": 26
+  },
+  {
+    "Nation": "NZL",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "PAN",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "PER",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "PHI",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "POL",
+    "Count of Player": 34
+  },
+  {
+    "Nation": "PRT",
+    "Count of Player": 58
+  },
+  {
+    "Nation": "PRY",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "ROU",
+    "Count of Player": 11
+  },
+  {
+    "Nation": "RUS",
+    "Count of Player": 6
+  },
+  {
+    "Nation": "SEN",
+    "Count of Player": 47
+  },
+  {
+    "Nation": "SLE",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "SRB",
+    "Count of Player": 37
+  },
+  {
+    "Nation": "SUR",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "SVK",
+    "Count of Player": 14
+  },
+  {
+    "Nation": "SVN",
+    "Count of Player": 8
+  },
+  {
+    "Nation": "SWE",
+    "Count of Player": 24
+  },
+  {
+    "Nation": "TGO",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "TUN",
+    "Count of Player": 9
+  },
+  {
+    "Nation": "TUR",
+    "Count of Player": 20
+  },
+  {
+    "Nation": "UKR",
+    "Count of Player": 9
+  },
+  {
+    "Nation": "URY",
+    "Count of Player": 30
+  },
+  {
+    "Nation": "USA",
+    "Count of Player": 30
+  },
+  {
+    "Nation": "UZB",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "VEN",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "ZAF",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "ZIM",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "ZMB",
+    "Count of Player": 2
+  }
+]

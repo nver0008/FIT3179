@@ -1,2407 +1,2402 @@
 [
- {
-   "Nation": "ALB",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "ALB",
-   "Comp": "La Liga",
-   "Count of Player": 3
- },
- {
-   "Nation": "ALB",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "ALB",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "ALB",
-   "Comp": "Serie A",
-   "Count of Player": 10
- },
- {
-   "Nation": "ANG",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "ANG",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "ANG",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "ANG",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "ANG",
-   "Comp": "Serie A",
-   "Count of Player": 1
- },
- {
-   "Nation": "ARG",
-   "Comp": "Bundesliga",
-   "Count of Player": 3
- },
- {
-   "Nation": "ARG",
-   "Comp": "La Liga",
-   "Count of Player": 33
- },
- {
-   "Nation": "ARG",
-   "Comp": "Ligue 1",
-   "Count of Player": 8
- },
- {
-   "Nation": "ARG",
-   "Comp": "Premier League",
-   "Count of Player": 8
- },
- {
-   "Nation": "ARG",
-   "Comp": "Serie A",
-   "Count of Player": 21
- },
- {
-   "Nation": "ARM",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "ARM",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "ARM",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "ARM",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "ARM",
-   "Comp": "Serie A",
-   "Count of Player": 1
- },
- {
-   "Nation": "AUS",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "AUS",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "AUS",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "AUS",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "AUS",
-   "Comp": "Serie A",
-   "Count of Player": 1
- },
- {
-   "Nation": "AUT",
-   "Comp": "Bundesliga",
-   "Count of Player": 26
- },
- {
-   "Nation": "AUT",
-   "Comp": "La Liga",
-   "Count of Player": 2
- },
- {
-   "Nation": "AUT",
-   "Comp": "Ligue 1",
-   "Count of Player": 3
- },
- {
-   "Nation": "AUT",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "AUT",
-   "Comp": "Serie A",
-   "Count of Player": 4
- },
- {
-   "Nation": "BEL",
-   "Comp": "Bundesliga",
-   "Count of Player": 12
- },
- {
-   "Nation": "BEL",
-   "Comp": "La Liga",
-   "Count of Player": 5
- },
- {
-   "Nation": "BEL",
-   "Comp": "Ligue 1",
-   "Count of Player": 9
- },
- {
-   "Nation": "BEL",
-   "Comp": "Premier League",
-   "Count of Player": 10
- },
- {
-   "Nation": "BEL",
-   "Comp": "Serie A",
-   "Count of Player": 6
- },
- {
-   "Nation": "BEN",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "BEN",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "BEN",
-   "Comp": "Ligue 1",
-   "Count of Player": 3
- },
- {
-   "Nation": "BEN",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "BEN",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "BFA",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "BFA",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "BFA",
-   "Comp": "Ligue 1",
-   "Count of Player": 2
- },
- {
-   "Nation": "BFA",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "BFA",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "BGR",
-   "Comp": "Serie A",
-   "Count of Player": 1
- },
- {
-   "Nation": "BIH",
-   "Comp": "Bundesliga",
-   "Count of Player": 2
- },
- {
-   "Nation": "BIH",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "BIH",
-   "Comp": "Ligue 1",
-   "Count of Player": 3
- },
- {
-   "Nation": "BIH",
-   "Comp": "Premier League",
-   "Count of Player": 2
- },
- {
-   "Nation": "BIH",
-   "Comp": "Serie A",
-   "Count of Player": 5
- },
- {
-   "Nation": "BRA",
-   "Comp": "Bundesliga",
-   "Count of Player": 7
- },
- {
-   "Nation": "BRA",
-   "Comp": "La Liga",
-   "Count of Player": 19
- },
- {
-   "Nation": "BRA",
-   "Comp": "Ligue 1",
-   "Count of Player": 27
- },
- {
-   "Nation": "BRA",
-   "Comp": "Premier League",
-   "Count of Player": 27
- },
- {
-   "Nation": "BRA",
-   "Comp": "Serie A",
-   "Count of Player": 24
- },
- {
-   "Nation": "CAN",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "CAN",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "CAN",
-   "Comp": "Ligue 1",
-   "Count of Player": 2
- },
- {
-   "Nation": "CAN",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "CAN",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "CGO",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "CGO",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "CGO",
-   "Comp": "Ligue 1",
-   "Count of Player": 2
- },
- {
-   "Nation": "CGO",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "CGO",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "CHA",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "CHA",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "CHA",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "CHA",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "CHA",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "CHE",
-   "Comp": "Bundesliga",
-   "Count of Player": 19
- },
- {
-   "Nation": "CHE",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "CHE",
-   "Comp": "Ligue 1",
-   "Count of Player": 5
- },
- {
-   "Nation": "CHE",
-   "Comp": "Premier League",
-   "Count of Player": 2
- },
- {
-   "Nation": "CHE",
-   "Comp": "Serie A",
-   "Count of Player": 7
- },
- {
-   "Nation": "CHL",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "CHL",
-   "Comp": "La Liga",
-   "Count of Player": 3
- },
- {
-   "Nation": "CHL",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "CHL",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "CHL",
-   "Comp": "Serie A",
-   "Count of Player": 5
- },
- {
-   "Nation": "CHN",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "CHN",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "CHN",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "CHN",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "CHN",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "CIV",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "CIV",
-   "Comp": "La Liga",
-   "Count of Player": 3
- },
- {
-   "Nation": "CIV",
-   "Comp": "Ligue 1",
-   "Count of Player": 13
- },
- {
-   "Nation": "CIV",
-   "Comp": "Premier League",
-   "Count of Player": 7
- },
- {
-   "Nation": "CIV",
-   "Comp": "Serie A",
-   "Count of Player": 10
- },
- {
-   "Nation": "CMR",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "CMR",
-   "Comp": "La Liga",
-   "Count of Player": 2
- },
- {
-   "Nation": "CMR",
-   "Comp": "Ligue 1",
-   "Count of Player": 14
- },
- {
-   "Nation": "CMR",
-   "Comp": "Premier League",
-   "Count of Player": 2
- },
- {
-   "Nation": "CMR",
-   "Comp": "Serie A",
-   "Count of Player": 4
- },
- {
-   "Nation": "COD",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "COD",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "COD",
-   "Comp": "Ligue 1",
-   "Count of Player": 4
- },
- {
-   "Nation": "COD",
-   "Comp": "Premier League",
-   "Count of Player": 3
- },
- {
-   "Nation": "COD",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "COL",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "COL",
-   "Comp": "La Liga",
-   "Count of Player": 8
- },
- {
-   "Nation": "COL",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "COL",
-   "Comp": "Premier League",
-   "Count of Player": 5
- },
- {
-   "Nation": "COL",
-   "Comp": "Serie A",
-   "Count of Player": 6
- },
- {
-   "Nation": "CRI",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "CRI",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "CRI",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "CRI",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "CRI",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "CTA",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "CTA",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "CTA",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "CTA",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "CTA",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "CYP",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "CYP",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "CYP",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "CYP",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "CYP",
-   "Comp": "Serie A",
-   "Count of Player": 1
- },
- {
-   "Nation": "CZE",
-   "Comp": "Bundesliga",
-   "Count of Player": 5
- },
- {
-   "Nation": "CZE",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "CZE",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "CZE",
-   "Comp": "Premier League",
-   "Count of Player": 4
- },
- {
-   "Nation": "CZE",
-   "Comp": "Serie A",
-   "Count of Player": 3
- },
- {
-   "Nation": "DEN",
-   "Comp": "Bundesliga",
-   "Count of Player": 15
- },
- {
-   "Nation": "DEN",
-   "Comp": "La Liga",
-   "Count of Player": 5
- },
- {
-   "Nation": "DEN",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "DEN",
-   "Comp": "Premier League",
-   "Count of Player": 14
- },
- {
-   "Nation": "DEN",
-   "Comp": "Serie A",
-   "Count of Player": 7
- },
- {
-   "Nation": "DEU",
-   "Comp": "Bundesliga",
-   "Count of Player": 221
- },
- {
-   "Nation": "DEU",
-   "Comp": "La Liga",
-   "Count of Player": 3
- },
- {
-   "Nation": "DEU",
-   "Comp": "Ligue 1",
-   "Count of Player": 8
- },
- {
-   "Nation": "DEU",
-   "Comp": "Premier League",
-   "Count of Player": 10
- },
- {
-   "Nation": "DEU",
-   "Comp": "Serie A",
-   "Count of Player": 10
- },
- {
-   "Nation": "DOM",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "DOM",
-   "Comp": "La Liga",
-   "Count of Player": 2
- },
- {
-   "Nation": "DOM",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "DOM",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "DOM",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "DZA",
-   "Comp": "Bundesliga",
-   "Count of Player": 2
- },
- {
-   "Nation": "DZA",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "DZA",
-   "Comp": "Ligue 1",
-   "Count of Player": 16
- },
- {
-   "Nation": "DZA",
-   "Comp": "Premier League",
-   "Count of Player": 2
- },
- {
-   "Nation": "DZA",
-   "Comp": "Serie A",
-   "Count of Player": 4
- },
- {
-   "Nation": "ECU",
-   "Comp": "Bundesliga",
-   "Count of Player": 2
- },
- {
-   "Nation": "ECU",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "ECU",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "ECU",
-   "Comp": "Premier League",
-   "Count of Player": 2
- },
- {
-   "Nation": "ECU",
-   "Comp": "Serie A",
-   "Count of Player": 2
- },
- {
-   "Nation": "EGY",
-   "Comp": "Bundesliga",
-   "Count of Player": 2
- },
- {
-   "Nation": "EGY",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "EGY",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "EGY",
-   "Comp": "Premier League",
-   "Count of Player": 3
- },
- {
-   "Nation": "EGY",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "ESP",
-   "Comp": "Bundesliga",
-   "Count of Player": 8
- },
- {
-   "Nation": "ESP",
-   "Comp": "La Liga",
-   "Count of Player": 368
- },
- {
-   "Nation": "ESP",
-   "Comp": "Ligue 1",
-   "Count of Player": 12
- },
- {
-   "Nation": "ESP",
-   "Comp": "Premier League",
-   "Count of Player": 30
- },
- {
-   "Nation": "ESP",
-   "Comp": "Serie A",
-   "Count of Player": 17
- },
- {
-   "Nation": "FIN",
-   "Comp": "Bundesliga",
-   "Count of Player": 3
- },
- {
-   "Nation": "FIN",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "FIN",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "FIN",
-   "Comp": "Premier League",
-   "Count of Player": 2
- },
- {
-   "Nation": "FIN",
-   "Comp": "Serie A",
-   "Count of Player": 2
- },
- {
-   "Nation": "FRA",
-   "Comp": "Bundesliga",
-   "Count of Player": 36
- },
- {
-   "Nation": "FRA",
-   "Comp": "La Liga",
-   "Count of Player": 26
- },
- {
-   "Nation": "FRA",
-   "Comp": "Ligue 1",
-   "Count of Player": 285
- },
- {
-   "Nation": "FRA",
-   "Comp": "Premier League",
-   "Count of Player": 31
- },
- {
-   "Nation": "FRA",
-   "Comp": "Serie A",
-   "Count of Player": 24
- },
- {
-   "Nation": "GAB",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "GAB",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "GAB",
-   "Comp": "Ligue 1",
-   "Count of Player": 3
- },
- {
-   "Nation": "GAB",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "GAB",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "GBR",
-   "Comp": "Bundesliga",
-   "Count of Player": 6
- },
- {
-   "Nation": "GBR",
-   "Comp": "La Liga",
-   "Count of Player": 2
- },
- {
-   "Nation": "GBR",
-   "Comp": "Ligue 1",
-   "Count of Player": 6
- },
- {
-   "Nation": "GBR",
-   "Comp": "Premier League",
-   "Count of Player": 232
- },
- {
-   "Nation": "GBR",
-   "Comp": "Serie A",
-   "Count of Player": 10
- },
- {
-   "Nation": "GEO",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "GEO",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "GEO",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "GEO",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "GEO",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "GHA",
-   "Comp": "Bundesliga",
-   "Count of Player": 4
- },
- {
-   "Nation": "GHA",
-   "Comp": "La Liga",
-   "Count of Player": 3
- },
- {
-   "Nation": "GHA",
-   "Comp": "Ligue 1",
-   "Count of Player": 6
- },
- {
-   "Nation": "GHA",
-   "Comp": "Premier League",
-   "Count of Player": 6
- },
- {
-   "Nation": "GHA",
-   "Comp": "Serie A",
-   "Count of Player": 5
- },
- {
-   "Nation": "GIN",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "GIN",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "GIN",
-   "Comp": "Ligue 1",
-   "Count of Player": 5
- },
- {
-   "Nation": "GIN",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "GIN",
-   "Comp": "Serie A",
-   "Count of Player": 2
- },
- {
-   "Nation": "GMB",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "GMB",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "GMB",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "GMB",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "GMB",
-   "Comp": "Serie A",
-   "Count of Player": 4
- },
- {
-   "Nation": "GNB",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "GNB",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "GNB",
-   "Comp": "Ligue 1",
-   "Count of Player": 3
- },
- {
-   "Nation": "GNB",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "GNB",
-   "Comp": "Serie A",
-   "Count of Player": 2
- },
- {
-   "Nation": "GNQ",
-   "Comp": "La Liga",
-   "Count of Player": 3
- },
- {
-   "Nation": "GNQ",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "GNQ",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "GNQ",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "GNQ",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "GRC",
-   "Comp": "Bundesliga",
-   "Count of Player": 6
- },
- {
-   "Nation": "GRC",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "GRC",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "GRC",
-   "Comp": "Premier League",
-   "Count of Player": 3
- },
- {
-   "Nation": "GRC",
-   "Comp": "Serie A",
-   "Count of Player": 7
- },
- {
-   "Nation": "GRN",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "GRN",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "GRN",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "GRN",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "GRN",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "GUF",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "GUF",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "GUF",
-   "Comp": "Ligue 1",
-   "Count of Player": 2
- },
- {
-   "Nation": "GUF",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "GUF",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "HND",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "HND",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "HND",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "HND",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "HND",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "HRV",
-   "Comp": "Bundesliga",
-   "Count of Player": 9
- },
- {
-   "Nation": "HRV",
-   "Comp": "La Liga",
-   "Count of Player": 4
- },
- {
-   "Nation": "HRV",
-   "Comp": "Ligue 1",
-   "Count of Player": 6
- },
- {
-   "Nation": "HRV",
-   "Comp": "Premier League",
-   "Count of Player": 2
- },
- {
-   "Nation": "HRV",
-   "Comp": "Serie A",
-   "Count of Player": 16
- },
- {
-   "Nation": "HUN",
-   "Comp": "Bundesliga",
-   "Count of Player": 7
- },
- {
-   "Nation": "HUN",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "HUN",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "HUN",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "HUN",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "IRL",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "IRL",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "IRL",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "IRL",
-   "Comp": "Premier League",
-   "Count of Player": 14
- },
- {
-   "Nation": "IRL",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "IRN",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "IRN",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "IRN",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "IRN",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "IRN",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "ISL",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "ISL",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "ISL",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "ISL",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "ISL",
-   "Comp": "Serie A",
-   "Count of Player": 4
- },
- {
-   "Nation": "ISR",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "ISR",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "ISR",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "ISR",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "ISR",
-   "Comp": "Serie A",
-   "Count of Player": 2
- },
- {
-   "Nation": "ITA",
-   "Comp": "Bundesliga",
-   "Count of Player": 2
- },
- {
-   "Nation": "ITA",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "ITA",
-   "Comp": "Ligue 1",
-   "Count of Player": 4
- },
- {
-   "Nation": "ITA",
-   "Comp": "Premier League",
-   "Count of Player": 4
- },
- {
-   "Nation": "ITA",
-   "Comp": "Serie A",
-   "Count of Player": 245
- },
- {
-   "Nation": "JAM",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "JAM",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "JAM",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "JAM",
-   "Comp": "Premier League",
-   "Count of Player": 3
- },
- {
-   "Nation": "JAM",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "JPN",
-   "Comp": "Bundesliga",
-   "Count of Player": 8
- },
- {
-   "Nation": "JPN",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "JPN",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "JPN",
-   "Comp": "Premier League",
-   "Count of Player": 2
- },
- {
-   "Nation": "JPN",
-   "Comp": "Serie A",
-   "Count of Player": 2
- },
- {
-   "Nation": "KOR",
-   "Comp": "Bundesliga",
-   "Count of Player": 4
- },
- {
-   "Nation": "KOR",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "KOR",
-   "Comp": "Ligue 1",
-   "Count of Player": 2
- },
- {
-   "Nation": "KOR",
-   "Comp": "Premier League",
-   "Count of Player": 2
- },
- {
-   "Nation": "KOR",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "KOS",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "KOS",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "KOS",
-   "Comp": "Ligue 1",
-   "Count of Player": 4
- },
- {
-   "Nation": "KOS",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "KOS",
-   "Comp": "Serie A",
-   "Count of Player": 3
- },
- {
-   "Nation": "LUX",
-   "Comp": "Bundesliga",
-   "Count of Player": 2
- },
- {
-   "Nation": "LUX",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "LUX",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "LUX",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "LUX",
-   "Comp": "Serie A",
-   "Count of Player": 1
- },
- {
-   "Nation": "MAD",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "MAD",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "MAD",
-   "Comp": "Ligue 1",
-   "Count of Player": 2
- },
- {
-   "Nation": "MAD",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "MAD",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "MAR",
-   "Comp": "Bundesliga",
-   "Count of Player": 2
- },
- {
-   "Nation": "MAR",
-   "Comp": "La Liga",
-   "Count of Player": 7
- },
- {
-   "Nation": "MAR",
-   "Comp": "Ligue 1",
-   "Count of Player": 10
- },
- {
-   "Nation": "MAR",
-   "Comp": "Premier League",
-   "Count of Player": 4
- },
- {
-   "Nation": "MAR",
-   "Comp": "Serie A",
-   "Count of Player": 4
- },
- {
-   "Nation": "MEX",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "MEX",
-   "Comp": "La Liga",
-   "Count of Player": 7
- },
- {
-   "Nation": "MEX",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "MEX",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "MEX",
-   "Comp": "Serie A",
-   "Count of Player": 2
- },
- {
-   "Nation": "MKD",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "MKD",
-   "Comp": "La Liga",
-   "Count of Player": 2
- },
- {
-   "Nation": "MKD",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "MKD",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "MKD",
-   "Comp": "Serie A",
-   "Count of Player": 3
- },
- {
-   "Nation": "MLI",
-   "Comp": "Bundesliga",
-   "Count of Player": 3
- },
- {
-   "Nation": "MLI",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "MLI",
-   "Comp": "Ligue 1",
-   "Count of Player": 19
- },
- {
-   "Nation": "MLI",
-   "Comp": "Premier League",
-   "Count of Player": 3
- },
- {
-   "Nation": "MLI",
-   "Comp": "Serie A",
-   "Count of Player": 1
- },
- {
-   "Nation": "MNE",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "MNE",
-   "Comp": "La Liga",
-   "Count of Player": 4
- },
- {
-   "Nation": "MNE",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "MNE",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "MNE",
-   "Comp": "Serie A",
-   "Count of Player": 1
- },
- {
-   "Nation": "MOZ",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "MOZ",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "MOZ",
-   "Comp": "Ligue 1",
-   "Count of Player": 2
- },
- {
-   "Nation": "MOZ",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "MOZ",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "MTQ",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "MTQ",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "MTQ",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "MTQ",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "MTQ",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "NGA",
-   "Comp": "Bundesliga",
-   "Count of Player": 5
- },
- {
-   "Nation": "NGA",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "NGA",
-   "Comp": "Ligue 1",
-   "Count of Player": 5
- },
- {
-   "Nation": "NGA",
-   "Comp": "Premier League",
-   "Count of Player": 9
- },
- {
-   "Nation": "NGA",
-   "Comp": "Serie A",
-   "Count of Player": 8
- },
- {
-   "Nation": "NLD",
-   "Comp": "Bundesliga",
-   "Count of Player": 27
- },
- {
-   "Nation": "NLD",
-   "Comp": "La Liga",
-   "Count of Player": 7
- },
- {
-   "Nation": "NLD",
-   "Comp": "Ligue 1",
-   "Count of Player": 13
- },
- {
-   "Nation": "NLD",
-   "Comp": "Premier League",
-   "Count of Player": 16
- },
- {
-   "Nation": "NLD",
-   "Comp": "Serie A",
-   "Count of Player": 17
- },
- {
-   "Nation": "NOR",
-   "Comp": "Bundesliga",
-   "Count of Player": 6
- },
- {
-   "Nation": "NOR",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "NOR",
-   "Comp": "Ligue 1",
-   "Count of Player": 3
- },
- {
-   "Nation": "NOR",
-   "Comp": "Premier League",
-   "Count of Player": 7
- },
- {
-   "Nation": "NOR",
-   "Comp": "Serie A",
-   "Count of Player": 9
- },
- {
-   "Nation": "NZL",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "NZL",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "NZL",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "NZL",
-   "Comp": "Premier League",
-   "Count of Player": 2
- },
- {
-   "Nation": "NZL",
-   "Comp": "Serie A",
-   "Count of Player": 1
- },
- {
-   "Nation": "PAN",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "PAN",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "PAN",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "PAN",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "PAN",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "PER",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "PER",
-   "Comp": "La Liga",
-   "Count of Player": 2
- },
- {
-   "Nation": "PER",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "PER",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "PER",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "PHI",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "PHI",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "PHI",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "PHI",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "PHI",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "POL",
-   "Comp": "Bundesliga",
-   "Count of Player": 7
- },
- {
-   "Nation": "POL",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "POL",
-   "Comp": "Ligue 1",
-   "Count of Player": 4
- },
- {
-   "Nation": "POL",
-   "Comp": "Premier League",
-   "Count of Player": 6
- },
- {
-   "Nation": "POL",
-   "Comp": "Serie A",
-   "Count of Player": 17
- },
- {
-   "Nation": "PRT",
-   "Comp": "Bundesliga",
-   "Count of Player": 5
- },
- {
-   "Nation": "PRT",
-   "Comp": "La Liga",
-   "Count of Player": 10
- },
- {
-   "Nation": "PRT",
-   "Comp": "Ligue 1",
-   "Count of Player": 14
- },
- {
-   "Nation": "PRT",
-   "Comp": "Premier League",
-   "Count of Player": 21
- },
- {
-   "Nation": "PRT",
-   "Comp": "Serie A",
-   "Count of Player": 8
- },
- {
-   "Nation": "PRY",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "PRY",
-   "Comp": "La Liga",
-   "Count of Player": 2
- },
- {
-   "Nation": "PRY",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "PRY",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "PRY",
-   "Comp": "Serie A",
-   "Count of Player": 2
- },
- {
-   "Nation": "ROU",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "ROU",
-   "Comp": "La Liga",
-   "Count of Player": 2
- },
- {
-   "Nation": "ROU",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "ROU",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "ROU",
-   "Comp": "Serie A",
-   "Count of Player": 9
- },
- {
-   "Nation": "RUS",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "RUS",
-   "Comp": "La Liga",
-   "Count of Player": 2
- },
- {
-   "Nation": "RUS",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "RUS",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "RUS",
-   "Comp": "Serie A",
-   "Count of Player": 2
- },
- {
-   "Nation": "SEN",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "SEN",
-   "Comp": "La Liga",
-   "Count of Player": 8
- },
- {
-   "Nation": "SEN",
-   "Comp": "Ligue 1",
-   "Count of Player": 27
- },
- {
-   "Nation": "SEN",
-   "Comp": "Premier League",
-   "Count of Player": 5
- },
- {
-   "Nation": "SEN",
-   "Comp": "Serie A",
-   "Count of Player": 6
- },
- {
-   "Nation": "SLE",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "SLE",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "SLE",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "SLE",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "SLE",
-   "Comp": "Serie A",
-   "Count of Player": 1
- },
- {
-   "Nation": "SRB",
-   "Comp": "Bundesliga",
-   "Count of Player": 4
- },
- {
-   "Nation": "SRB",
-   "Comp": "La Liga",
-   "Count of Player": 11
- },
- {
-   "Nation": "SRB",
-   "Comp": "Ligue 1",
-   "Count of Player": 4
- },
- {
-   "Nation": "SRB",
-   "Comp": "Premier League",
-   "Count of Player": 2
- },
- {
-   "Nation": "SRB",
-   "Comp": "Serie A",
-   "Count of Player": 16
- },
- {
-   "Nation": "SUR",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "SUR",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "SUR",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "SUR",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "SUR",
-   "Comp": "Serie A",
-   "Count of Player": 1
- },
- {
-   "Nation": "SVK",
-   "Comp": "Bundesliga",
-   "Count of Player": 3
- },
- {
-   "Nation": "SVK",
-   "Comp": "La Liga",
-   "Count of Player": 2
- },
- {
-   "Nation": "SVK",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "SVK",
-   "Comp": "Premier League",
-   "Count of Player": 2
- },
- {
-   "Nation": "SVK",
-   "Comp": "Serie A",
-   "Count of Player": 7
- },
- {
-   "Nation": "SVN",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "SVN",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "SVN",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "SVN",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "SVN",
-   "Comp": "Serie A",
-   "Count of Player": 6
- },
- {
-   "Nation": "SWE",
-   "Comp": "Bundesliga",
-   "Count of Player": 5
- },
- {
-   "Nation": "SWE",
-   "Comp": "La Liga",
-   "Count of Player": 4
- },
- {
-   "Nation": "SWE",
-   "Comp": "Ligue 1",
-   "Count of Player": 2
- },
- {
-   "Nation": "SWE",
-   "Comp": "Premier League",
-   "Count of Player": 7
- },
- {
-   "Nation": "SWE",
-   "Comp": "Serie A",
-   "Count of Player": 6
- },
- {
-   "Nation": "TGO",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "TGO",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "TGO",
-   "Comp": "Ligue 1",
-   "Count of Player": 2
- },
- {
-   "Nation": "TGO",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "TGO",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "TUN",
-   "Comp": "Bundesliga",
-   "Count of Player": 2
- },
- {
-   "Nation": "TUN",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "TUN",
-   "Comp": "Ligue 1",
-   "Count of Player": 5
- },
- {
-   "Nation": "TUN",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "TUN",
-   "Comp": "Serie A",
-   "Count of Player": 1
- },
- {
-   "Nation": "TUR",
-   "Comp": "Bundesliga",
-   "Count of Player": 3
- },
- {
-   "Nation": "TUR",
-   "Comp": "La Liga",
-   "Count of Player": 3
- },
- {
-   "Nation": "TUR",
-   "Comp": "Ligue 1",
-   "Count of Player": 5
- },
- {
-   "Nation": "TUR",
-   "Comp": "Premier League",
-   "Count of Player": 4
- },
- {
-   "Nation": "TUR",
-   "Comp": "Serie A",
-   "Count of Player": 5
- },
- {
-   "Nation": "UKR",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "UKR",
-   "Comp": "La Liga",
-   "Count of Player": 1
- },
- {
-   "Nation": "UKR",
-   "Comp": "Ligue 1",
-   "Count of Player": 2
- },
- {
-   "Nation": "UKR",
-   "Comp": "Premier League",
-   "Count of Player": 3
- },
- {
-   "Nation": "UKR",
-   "Comp": "Serie A",
-   "Count of Player": 3
- },
- {
-   "Nation": "URY",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "URY",
-   "Comp": "La Liga",
-   "Count of Player": 17
- },
- {
-   "Nation": "URY",
-   "Comp": "Ligue 1",
-   "Count of Player": 2
- },
- {
-   "Nation": "URY",
-   "Comp": "Premier League",
-   "Count of Player": 2
- },
- {
-   "Nation": "URY",
-   "Comp": "Serie A",
-   "Count of Player": 9
- },
- {
-   "Nation": "USA",
-   "Comp": "Bundesliga",
-   "Count of Player": 13
- },
- {
-   "Nation": "USA",
-   "Comp": "La Liga",
-   "Count of Player": 5
- },
- {
-   "Nation": "USA",
-   "Comp": "Ligue 1",
-   "Count of Player": 4
- },
- {
-   "Nation": "USA",
-   "Comp": "Premier League",
-   "Count of Player": 3
- },
- {
-   "Nation": "USA",
-   "Comp": "Serie A",
-   "Count of Player": 5
- },
- {
-   "Nation": "UZB",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "UZB",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "UZB",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "UZB",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "UZB",
-   "Comp": "Serie A",
-   "Count of Player": 1
- },
- {
-   "Nation": "VEN",
-   "Comp": "Bundesliga",
-   "Count of Player": 1
- },
- {
-   "Nation": "VEN",
-   "Comp": "La Liga",
-   "Count of Player": 2
- },
- {
-   "Nation": "VEN",
-   "Comp": "Ligue 1",
-   "Count of Player": 1
- },
- {
-   "Nation": "VEN",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "VEN",
-   "Comp": "Serie A",
-   "Count of Player": 2
- },
- {
-   "Nation": "ZAF",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "ZAF",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "ZAF",
-   "Comp": "Ligue 1",
-   "Count of Player": 2
- },
- {
-   "Nation": "ZAF",
-   "Comp": "Premier League",
-   "Count of Player": 0
- },
- {
-   "Nation": "ZAF",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "ZIM",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "ZIM",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "ZIM",
-   "Comp": "Ligue 1",
-   "Count of Player": 2
- },
- {
-   "Nation": "ZIM",
-   "Comp": "Premier League",
-   "Count of Player": 1
- },
- {
-   "Nation": "ZIM",
-   "Comp": "Serie A",
-   "Count of Player": 0
- },
- {
-   "Nation": "ZMB",
-   "Comp": "Bundesliga",
-   "Count of Player": 0
- },
- {
-   "Nation": "ZMB",
-   "Comp": "La Liga",
-   "Count of Player": 0
- },
- {
-   "Nation": "ZMB",
-   "Comp": "Ligue 1",
-   "Count of Player": 0
- },
- {
-   "Nation": "ZMB",
-   "Comp": "Premier League",
-   "Count of Player": 2
- },
- {
-   "Nation": "ZMB",
-   "Comp": "Serie A",
-   "Count of Player": 0
- }
+  {
+    "Nation": "ALB",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ALB",
+    "Comp": "La Liga",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "ALB",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ALB",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "ALB",
+    "Comp": "Serie A",
+    "Count of Player": 10
+  },
+  {
+    "Nation": "ANG",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "ANG",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "ANG",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ANG",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "ANG",
+    "Comp": "Serie A",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "ARG",
+    "Comp": "Bundesliga",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "ARG",
+    "Comp": "La Liga",
+    "Count of Player": 33
+  },
+  {
+    "Nation": "ARG",
+    "Comp": "Ligue 1",
+    "Count of Player": 8
+  },
+  {
+    "Nation": "ARG",
+    "Comp": "Premier League",
+    "Count of Player": 8
+  },
+  {
+    "Nation": "ARG",
+    "Comp": "Serie A",
+    "Count of Player": 21
+  },
+  {
+    "Nation": "ARM",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "ARM",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "ARM",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ARM",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ARM",
+    "Comp": "Serie A",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "AUS",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "AUS",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "AUS",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "AUS",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "AUS",
+    "Comp": "Serie A",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "AUT",
+    "Comp": "Bundesliga",
+    "Count of Player": 26
+  },
+  {
+    "Nation": "AUT",
+    "Comp": "La Liga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "AUT",
+    "Comp": "Ligue 1",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "AUT",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "AUT",
+    "Comp": "Serie A",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "BEL",
+    "Comp": "Bundesliga",
+    "Count of Player": 12
+  },
+  {
+    "Nation": "BEL",
+    "Comp": "La Liga",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "BEL",
+    "Comp": "Ligue 1",
+    "Count of Player": 9
+  },
+  {
+    "Nation": "BEL",
+    "Comp": "Premier League",
+    "Count of Player": 10
+  },
+  {
+    "Nation": "BEL",
+    "Comp": "Serie A",
+    "Count of Player": 6
+  },
+  {
+    "Nation": "BEN",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "BEN",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "BEN",
+    "Comp": "Ligue 1",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "BEN",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "BEN",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "BFA",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "BFA",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "BFA",
+    "Comp": "Ligue 1",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "BFA",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "BFA",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "BIH",
+    "Comp": "Bundesliga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "BIH",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "BIH",
+    "Comp": "Ligue 1",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "BIH",
+    "Comp": "Premier League",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "BIH",
+    "Comp": "Serie A",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "BRA",
+    "Comp": "Bundesliga",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "BRA",
+    "Comp": "La Liga",
+    "Count of Player": 19
+  },
+  {
+    "Nation": "BRA",
+    "Comp": "Ligue 1",
+    "Count of Player": 27
+  },
+  {
+    "Nation": "BRA",
+    "Comp": "Premier League",
+    "Count of Player": 27
+  },
+  {
+    "Nation": "BRA",
+    "Comp": "Serie A",
+    "Count of Player": 24
+  },
+  {
+    "Nation": "CAN",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CAN",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CAN",
+    "Comp": "Ligue 1",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "CAN",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CAN",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CGO",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CGO",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CGO",
+    "Comp": "Ligue 1",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "CGO",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CGO",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CHA",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CHA",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CHA",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CHA",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CHA",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CHE",
+    "Comp": "Bundesliga",
+    "Count of Player": 19
+  },
+  {
+    "Nation": "CHE",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CHE",
+    "Comp": "Ligue 1",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "CHE",
+    "Comp": "Premier League",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "CHE",
+    "Comp": "Serie A",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "CHL",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CHL",
+    "Comp": "La Liga",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "CHL",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CHL",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CHL",
+    "Comp": "Serie A",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "CHN",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CHN",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CHN",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CHN",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CHN",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CIV",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CIV",
+    "Comp": "La Liga",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "CIV",
+    "Comp": "Ligue 1",
+    "Count of Player": 13
+  },
+  {
+    "Nation": "CIV",
+    "Comp": "Premier League",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "CIV",
+    "Comp": "Serie A",
+    "Count of Player": 10
+  },
+  {
+    "Nation": "CMR",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CMR",
+    "Comp": "La Liga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "CMR",
+    "Comp": "Ligue 1",
+    "Count of Player": 14
+  },
+  {
+    "Nation": "CMR",
+    "Comp": "Premier League",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "CMR",
+    "Comp": "Serie A",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "COD",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "COD",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "COD",
+    "Comp": "Ligue 1",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "COD",
+    "Comp": "Premier League",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "COD",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "COL",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "COL",
+    "Comp": "La Liga",
+    "Count of Player": 8
+  },
+  {
+    "Nation": "COL",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "COL",
+    "Comp": "Premier League",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "COL",
+    "Comp": "Serie A",
+    "Count of Player": 6
+  },
+  {
+    "Nation": "CRI",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CRI",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CRI",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CRI",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CRI",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CTA",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CTA",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CTA",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CTA",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CTA",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CYP",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CYP",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CYP",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CYP",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CYP",
+    "Comp": "Serie A",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CZE",
+    "Comp": "Bundesliga",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "CZE",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "CZE",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "CZE",
+    "Comp": "Premier League",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "CZE",
+    "Comp": "Serie A",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "DNK",
+    "Comp": "Bundesliga",
+    "Count of Player": 15
+  },
+  {
+    "Nation": "DNK",
+    "Comp": "La Liga",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "DNK",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "DNK",
+    "Comp": "Premier League",
+    "Count of Player": 14
+  },
+  {
+    "Nation": "DNK",
+    "Comp": "Serie A",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "DEU",
+    "Comp": "Bundesliga",
+    "Count of Player": 221
+  },
+  {
+    "Nation": "DEU",
+    "Comp": "La Liga",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "DEU",
+    "Comp": "Ligue 1",
+    "Count of Player": 8
+  },
+  {
+    "Nation": "DEU",
+    "Comp": "Premier League",
+    "Count of Player": 10
+  },
+  {
+    "Nation": "DEU",
+    "Comp": "Serie A",
+    "Count of Player": 10
+  },
+  {
+    "Nation": "DOM",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "DOM",
+    "Comp": "La Liga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "DOM",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "DOM",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "DOM",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "DZA",
+    "Comp": "Bundesliga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "DZA",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "DZA",
+    "Comp": "Ligue 1",
+    "Count of Player": 16
+  },
+  {
+    "Nation": "DZA",
+    "Comp": "Premier League",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "DZA",
+    "Comp": "Serie A",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "ECU",
+    "Comp": "Bundesliga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "ECU",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "ECU",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ECU",
+    "Comp": "Premier League",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "ECU",
+    "Comp": "Serie A",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "EGY",
+    "Comp": "Bundesliga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "EGY",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "EGY",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "EGY",
+    "Comp": "Premier League",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "EGY",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ESP",
+    "Comp": "Bundesliga",
+    "Count of Player": 8
+  },
+  {
+    "Nation": "ESP",
+    "Comp": "La Liga",
+    "Count of Player": 368
+  },
+  {
+    "Nation": "ESP",
+    "Comp": "Ligue 1",
+    "Count of Player": 12
+  },
+  {
+    "Nation": "ESP",
+    "Comp": "Premier League",
+    "Count of Player": 30
+  },
+  {
+    "Nation": "ESP",
+    "Comp": "Serie A",
+    "Count of Player": 17
+  },
+  {
+    "Nation": "FIN",
+    "Comp": "Bundesliga",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "FIN",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "FIN",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "FIN",
+    "Comp": "Premier League",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "FIN",
+    "Comp": "Serie A",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "FRA",
+    "Comp": "Bundesliga",
+    "Count of Player": 36
+  },
+  {
+    "Nation": "FRA",
+    "Comp": "La Liga",
+    "Count of Player": 26
+  },
+  {
+    "Nation": "FRA",
+    "Comp": "Ligue 1",
+    "Count of Player": 285
+  },
+  {
+    "Nation": "FRA",
+    "Comp": "Premier League",
+    "Count of Player": 31
+  },
+  {
+    "Nation": "FRA",
+    "Comp": "Serie A",
+    "Count of Player": 24
+  },
+  {
+    "Nation": "GAB",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GAB",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "GAB",
+    "Comp": "Ligue 1",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "GAB",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "GAB",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GBR",
+    "Comp": "Bundesliga",
+    "Count of Player": 6
+  },
+  {
+    "Nation": "GBR",
+    "Comp": "La Liga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "GBR",
+    "Comp": "Ligue 1",
+    "Count of Player": 6
+  },
+  {
+    "Nation": "GBR",
+    "Comp": "Premier League",
+    "Count of Player": 232
+  },
+  {
+    "Nation": "GBR",
+    "Comp": "Serie A",
+    "Count of Player": 10
+  },
+  {
+    "Nation": "GEO",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GEO",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "GEO",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "GEO",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GEO",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GHA",
+    "Comp": "Bundesliga",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "GHA",
+    "Comp": "La Liga",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "GHA",
+    "Comp": "Ligue 1",
+    "Count of Player": 6
+  },
+  {
+    "Nation": "GHA",
+    "Comp": "Premier League",
+    "Count of Player": 6
+  },
+  {
+    "Nation": "GHA",
+    "Comp": "Serie A",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "GIN",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "GIN",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "GIN",
+    "Comp": "Ligue 1",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "GIN",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "GIN",
+    "Comp": "Serie A",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "GMB",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GMB",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GMB",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GMB",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GMB",
+    "Comp": "Serie A",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "GNB",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GNB",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GNB",
+    "Comp": "Ligue 1",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "GNB",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GNB",
+    "Comp": "Serie A",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "GNQ",
+    "Comp": "La Liga",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "GNQ",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GNQ",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GNQ",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GNQ",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GRC",
+    "Comp": "Bundesliga",
+    "Count of Player": 6
+  },
+  {
+    "Nation": "GRC",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GRC",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "GRC",
+    "Comp": "Premier League",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "GRC",
+    "Comp": "Serie A",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "GRN",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GRN",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GRN",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GRN",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "GRN",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GUF",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GUF",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GUF",
+    "Comp": "Ligue 1",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "GUF",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "GUF",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "HND",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "HND",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "HND",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "HND",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "HND",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "HRV",
+    "Comp": "Bundesliga",
+    "Count of Player": 9
+  },
+  {
+    "Nation": "HRV",
+    "Comp": "La Liga",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "HRV",
+    "Comp": "Ligue 1",
+    "Count of Player": 6
+  },
+  {
+    "Nation": "HRV",
+    "Comp": "Premier League",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "HRV",
+    "Comp": "Serie A",
+    "Count of Player": 16
+  },
+  {
+    "Nation": "HUN",
+    "Comp": "Bundesliga",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "HUN",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "HUN",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "HUN",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "HUN",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "IRL",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "IRL",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "IRL",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "IRL",
+    "Comp": "Premier League",
+    "Count of Player": 14
+  },
+  {
+    "Nation": "IRL",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "IRN",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "IRN",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "IRN",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "IRN",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "IRN",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ISL",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "ISL",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ISL",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ISL",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "ISL",
+    "Comp": "Serie A",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "ISR",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "ISR",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ISR",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ISR",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ISR",
+    "Comp": "Serie A",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "ITA",
+    "Comp": "Bundesliga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "ITA",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "ITA",
+    "Comp": "Ligue 1",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "ITA",
+    "Comp": "Premier League",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "ITA",
+    "Comp": "Serie A",
+    "Count of Player": 245
+  },
+  {
+    "Nation": "JAM",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "JAM",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "JAM",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "JAM",
+    "Comp": "Premier League",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "JAM",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "JPN",
+    "Comp": "Bundesliga",
+    "Count of Player": 8
+  },
+  {
+    "Nation": "JPN",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "JPN",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "JPN",
+    "Comp": "Premier League",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "JPN",
+    "Comp": "Serie A",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "KOR",
+    "Comp": "Bundesliga",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "KOR",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "KOR",
+    "Comp": "Ligue 1",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "KOR",
+    "Comp": "Premier League",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "KOR",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "KOS",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "KOS",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "KOS",
+    "Comp": "Ligue 1",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "KOS",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "KOS",
+    "Comp": "Serie A",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "LUX",
+    "Comp": "Bundesliga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "LUX",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "LUX",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "LUX",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "LUX",
+    "Comp": "Serie A",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "MAD",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MAD",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MAD",
+    "Comp": "Ligue 1",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "MAD",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MAD",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MAR",
+    "Comp": "Bundesliga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "MAR",
+    "Comp": "La Liga",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "MAR",
+    "Comp": "Ligue 1",
+    "Count of Player": 10
+  },
+  {
+    "Nation": "MAR",
+    "Comp": "Premier League",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "MAR",
+    "Comp": "Serie A",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "MEX",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MEX",
+    "Comp": "La Liga",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "MEX",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MEX",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "MEX",
+    "Comp": "Serie A",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "MKD",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MKD",
+    "Comp": "La Liga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "MKD",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MKD",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MKD",
+    "Comp": "Serie A",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "MLI",
+    "Comp": "Bundesliga",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "MLI",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MLI",
+    "Comp": "Ligue 1",
+    "Count of Player": 19
+  },
+  {
+    "Nation": "MLI",
+    "Comp": "Premier League",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "MLI",
+    "Comp": "Serie A",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "MNE",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "MNE",
+    "Comp": "La Liga",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "MNE",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "MNE",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MNE",
+    "Comp": "Serie A",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "MOZ",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MOZ",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "MOZ",
+    "Comp": "Ligue 1",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "MOZ",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MOZ",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MTQ",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MTQ",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "MTQ",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "MTQ",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "MTQ",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "NGA",
+    "Comp": "Bundesliga",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "NGA",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "NGA",
+    "Comp": "Ligue 1",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "NGA",
+    "Comp": "Premier League",
+    "Count of Player": 9
+  },
+  {
+    "Nation": "NGA",
+    "Comp": "Serie A",
+    "Count of Player": 8
+  },
+  {
+    "Nation": "NLD",
+    "Comp": "Bundesliga",
+    "Count of Player": 27
+  },
+  {
+    "Nation": "NLD",
+    "Comp": "La Liga",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "NLD",
+    "Comp": "Ligue 1",
+    "Count of Player": 13
+  },
+  {
+    "Nation": "NLD",
+    "Comp": "Premier League",
+    "Count of Player": 16
+  },
+  {
+    "Nation": "NLD",
+    "Comp": "Serie A",
+    "Count of Player": 17
+  },
+  {
+    "Nation": "NOR",
+    "Comp": "Bundesliga",
+    "Count of Player": 6
+  },
+  {
+    "Nation": "NOR",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "NOR",
+    "Comp": "Ligue 1",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "NOR",
+    "Comp": "Premier League",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "NOR",
+    "Comp": "Serie A",
+    "Count of Player": 9
+  },
+  {
+    "Nation": "NZL",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "NZL",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "NZL",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "NZL",
+    "Comp": "Premier League",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "NZL",
+    "Comp": "Serie A",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "PAN",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "PAN",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "PAN",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "PAN",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "PAN",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "PER",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "PER",
+    "Comp": "La Liga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "PER",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "PER",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "PER",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "PHI",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "PHI",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "PHI",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "PHI",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "PHI",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "POL",
+    "Comp": "Bundesliga",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "POL",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "POL",
+    "Comp": "Ligue 1",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "POL",
+    "Comp": "Premier League",
+    "Count of Player": 6
+  },
+  {
+    "Nation": "POL",
+    "Comp": "Serie A",
+    "Count of Player": 17
+  },
+  {
+    "Nation": "PRT",
+    "Comp": "Bundesliga",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "PRT",
+    "Comp": "La Liga",
+    "Count of Player": 10
+  },
+  {
+    "Nation": "PRT",
+    "Comp": "Ligue 1",
+    "Count of Player": 14
+  },
+  {
+    "Nation": "PRT",
+    "Comp": "Premier League",
+    "Count of Player": 21
+  },
+  {
+    "Nation": "PRT",
+    "Comp": "Serie A",
+    "Count of Player": 8
+  },
+  {
+    "Nation": "PRY",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "PRY",
+    "Comp": "La Liga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "PRY",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "PRY",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "PRY",
+    "Comp": "Serie A",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "ROU",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ROU",
+    "Comp": "La Liga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "ROU",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ROU",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ROU",
+    "Comp": "Serie A",
+    "Count of Player": 9
+  },
+  {
+    "Nation": "RUS",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "RUS",
+    "Comp": "La Liga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "RUS",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "RUS",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "RUS",
+    "Comp": "Serie A",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "SEN",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "SEN",
+    "Comp": "La Liga",
+    "Count of Player": 8
+  },
+  {
+    "Nation": "SEN",
+    "Comp": "Ligue 1",
+    "Count of Player": 27
+  },
+  {
+    "Nation": "SEN",
+    "Comp": "Premier League",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "SEN",
+    "Comp": "Serie A",
+    "Count of Player": 6
+  },
+  {
+    "Nation": "SLE",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "SLE",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "SLE",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "SLE",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "SLE",
+    "Comp": "Serie A",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "SRB",
+    "Comp": "Bundesliga",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "SRB",
+    "Comp": "La Liga",
+    "Count of Player": 11
+  },
+  {
+    "Nation": "SRB",
+    "Comp": "Ligue 1",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "SRB",
+    "Comp": "Premier League",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "SRB",
+    "Comp": "Serie A",
+    "Count of Player": 16
+  },
+  {
+    "Nation": "SUR",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "SUR",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "SUR",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "SUR",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "SUR",
+    "Comp": "Serie A",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "SVK",
+    "Comp": "Bundesliga",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "SVK",
+    "Comp": "La Liga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "SVK",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "SVK",
+    "Comp": "Premier League",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "SVK",
+    "Comp": "Serie A",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "SVN",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "SVN",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "SVN",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "SVN",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "SVN",
+    "Comp": "Serie A",
+    "Count of Player": 6
+  },
+  {
+    "Nation": "SWE",
+    "Comp": "Bundesliga",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "SWE",
+    "Comp": "La Liga",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "SWE",
+    "Comp": "Ligue 1",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "SWE",
+    "Comp": "Premier League",
+    "Count of Player": 7
+  },
+  {
+    "Nation": "SWE",
+    "Comp": "Serie A",
+    "Count of Player": 6
+  },
+  {
+    "Nation": "TGO",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "TGO",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "TGO",
+    "Comp": "Ligue 1",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "TGO",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "TGO",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "TUN",
+    "Comp": "Bundesliga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "TUN",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "TUN",
+    "Comp": "Ligue 1",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "TUN",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "TUN",
+    "Comp": "Serie A",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "TUR",
+    "Comp": "Bundesliga",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "TUR",
+    "Comp": "La Liga",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "TUR",
+    "Comp": "Ligue 1",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "TUR",
+    "Comp": "Premier League",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "TUR",
+    "Comp": "Serie A",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "UKR",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "UKR",
+    "Comp": "La Liga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "UKR",
+    "Comp": "Ligue 1",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "UKR",
+    "Comp": "Premier League",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "UKR",
+    "Comp": "Serie A",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "URY",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "URY",
+    "Comp": "La Liga",
+    "Count of Player": 17
+  },
+  {
+    "Nation": "URY",
+    "Comp": "Ligue 1",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "URY",
+    "Comp": "Premier League",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "URY",
+    "Comp": "Serie A",
+    "Count of Player": 9
+  },
+  {
+    "Nation": "USA",
+    "Comp": "Bundesliga",
+    "Count of Player": 13
+  },
+  {
+    "Nation": "USA",
+    "Comp": "La Liga",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "USA",
+    "Comp": "Ligue 1",
+    "Count of Player": 4
+  },
+  {
+    "Nation": "USA",
+    "Comp": "Premier League",
+    "Count of Player": 3
+  },
+  {
+    "Nation": "USA",
+    "Comp": "Serie A",
+    "Count of Player": 5
+  },
+  {
+    "Nation": "UZB",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "UZB",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "UZB",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "UZB",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "UZB",
+    "Comp": "Serie A",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "VEN",
+    "Comp": "Bundesliga",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "VEN",
+    "Comp": "La Liga",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "VEN",
+    "Comp": "Ligue 1",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "VEN",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "VEN",
+    "Comp": "Serie A",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "ZAF",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ZAF",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ZAF",
+    "Comp": "Ligue 1",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "ZAF",
+    "Comp": "Premier League",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ZAF",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ZIM",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ZIM",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ZIM",
+    "Comp": "Ligue 1",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "ZIM",
+    "Comp": "Premier League",
+    "Count of Player": 1
+  },
+  {
+    "Nation": "ZIM",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ZMB",
+    "Comp": "Bundesliga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ZMB",
+    "Comp": "La Liga",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ZMB",
+    "Comp": "Ligue 1",
+    "Count of Player": 0
+  },
+  {
+    "Nation": "ZMB",
+    "Comp": "Premier League",
+    "Count of Player": 2
+  },
+  {
+    "Nation": "ZMB",
+    "Comp": "Serie A",
+    "Count of Player": 0
+  }
 ]

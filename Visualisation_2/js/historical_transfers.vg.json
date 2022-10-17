@@ -1,0 +1,171 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Transfer Fees per Year from 2000-2018",
+  "data": { "url": "data/top250-00-19.json" },
+  "vconcat": [
+    {
+      "width": 1000,
+      "height": 400,
+      "layer": [
+        {
+          "mark": "boxplot",
+          "encoding": {
+            "x": {
+              "field": "Season",
+              "timeUnit": "year",
+              "axis": { "format": "%Y" },
+              "title": "Year",
+              "scale": { "domain": { "param": "brush" } }
+            },
+            "y": {
+              "field": "Transfer_fee",
+              "type": "quantitative",
+              "title": "Transfer Fee (€)",
+              "scale": { "zero": false, "type": "linear" }
+            },
+            "color": {
+              "value": "#501F8C"
+            },
+            "tooltip": [
+              {
+                "field": "Name",
+                "type": "nominal",
+                "title": "Player"
+              },
+              {
+                "field": "Team_to",
+                "type": "nominal",
+                "title": "Club"
+              },
+              {
+                "field": "League_to",
+                "type": "nominal",
+                "title": "League"
+              },
+              {
+                "field": "Transfer_fee",
+                "type": "quantitative",
+                "title": "Transfer Fee (€)",
+                "format": ",.0f"
+              },
+              {
+                "field": "Transfer_fee",
+                "type": "quantitative",
+                "aggregate": "median",
+                "title": "Median Transfer Fee (€)",
+                "format": ",.0f"
+              }
+            ]
+          }
+        },
+        {
+          "mark": "line",
+          "encoding": {
+            "x": {
+              "field": "Season",
+              "timeUnit": "year",
+              "scale": { "domain": { "param": "brush" } }
+            },
+            "y": {
+              "field": "Transfer_fee",
+              "aggregate": "median",
+              "type": "quantitative"
+            },
+            "color": {
+              "value": "gold"
+            }
+          }
+        },
+        {
+          "mark": { "type": "text", "align": "center", "dx": -260, "dy": -370 },
+          "encoding": {
+            "x": { "value": "width" },
+            "y": { "value": "height" },
+            "text": {
+              "value": "Neymar Jr going from FC Barcelona to PSG in 2017 for a world record fee."
+            },
+            "color": {
+              "value": "grey"
+            }
+          }
+        },
+        {
+          "mark": { "type": "text", "align": "center", "dx": -850, "dy": -145 },
+          "encoding": {
+            "x": { "value": "width" },
+            "y": { "value": "height" },
+            "text": {
+              "value": "Zinedine Zidane going to Real Madrid in 2001 for €77.5m."
+            },
+            "color": {
+              "value": "grey"
+            }
+          }
+        },
+        {
+          "mark": { "type": "text", "align": "center", "dx": -180, "dy": -225 },
+          "encoding": {
+            "x": { "value": "width" },
+            "y": { "value": "height" },
+            "text": {
+              "value": "Kylian Mbappe becomes the most expensive 19 year-old footballer."
+            },
+            "color": {
+              "value": "grey"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "width": 1000,
+      "height": 250,
+      "mark": "area",
+      "params": [
+        {
+          "name": "brush",
+          "select": { "type": "interval", "encodings": ["x"] }
+        }
+      ],
+      "encoding": {
+        "x": {
+          "timeUnit": "year",
+          "field": "Season",
+          "axis": { "format": "%Y" },
+          "title": "Year"
+        },
+        "y": {
+          "title": "Maximum Transfer Fee (€)",
+          "aggregate": "max",
+          "field": "Transfer_fee"
+        },
+        "color": {
+          "field": "League_to",
+          "title": "League",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Premier League",
+              "Bundesliga",
+              "La Liga",
+              "Ligue 1",
+              "Serie A"
+            ],
+            "range": ["purple", "red", "gold", "navy", "turquoise"]
+          },
+          "legend": null
+        },
+        "tooltip": [
+          { "field": "League_to", "type": "nominal", "title": "League" },
+          {
+            "field": "Transfer_fee",
+            "aggregate": "max",
+            "type": "quantitative",
+            "title": "Max Transfer Fee (€)",
+            "format": ",.0f"
+          }
+        ]
+      }
+    }
+  ]
+}
