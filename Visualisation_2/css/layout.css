@@ -132,7 +132,7 @@ div.wrapper {
 }
 /* For main content. */
 .row2 {
-  color: #979797;
+  color: #5a5a5a;
   background-color: #ffffff;
 }
 .row2 a {
@@ -141,8 +141,13 @@ div.wrapper {
 }
 .row2 h1 {
   color: #b48608;
-  font-size: large;
+  font-size: 26px;
   margin-bottom: 25px;
+}
+.row2 h2 {
+  color: #b48608;
+  font-size: 18px;
+  margin-bottom: 20px;
 }
 /* For bottom banner. */
 .row3,
@@ -276,12 +281,13 @@ select {
 #header #hgroup h2 {
   font-weight: normal;
   text-transform: none;
+  margin-bottom: 10px;
 }
 #header #hgroup h1 {
   font-size: 36px;
 }
 #header #hgroup h2 {
-  font-size: 13px;
+  font-size: 28px;
 }
 #header #himage {
   float: right;
@@ -346,11 +352,19 @@ select {
   padding-left: 20px;
 }
 
+#container #homepage #info #second {
+  margin-top: 40px;
+}
+
 #container #homepage #info #radial_chart {
   display: inline-block;
   padding-right: 10px;
   margin-top: 20px;
   margin-right: 100px;
+}
+
+#container #homepage #info #nationalities_map {
+  margin-top: 30px;
 }
 
 #container #homepage #info #nations_list {
@@ -361,6 +375,8 @@ select {
 #container #homepage #info #historical_transfers {
   display: inline-block;
   align-items: left;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 /*----------------------------------------------Footer-------------------------------------*/

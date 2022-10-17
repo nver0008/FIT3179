@@ -14,8 +14,7 @@
               "field": "Season",
               "timeUnit": "year",
               "axis": { "format": "%Y" },
-              "title": "Year",
-              "scale": { "domain": { "param": "brush" } }
+              "title": "Year"
             },
             "y": {
               "field": "Transfer_fee",
@@ -63,8 +62,7 @@
           "encoding": {
             "x": {
               "field": "Season",
-              "timeUnit": "year",
-              "scale": { "domain": { "param": "brush" } }
+              "timeUnit": "year"
             },
             "y": {
               "field": "Transfer_fee",
@@ -77,7 +75,16 @@
           }
         },
         {
-          "mark": { "type": "text", "align": "center", "dx": -260, "dy": -370 },
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "dx": -500,
+            "dy": -370,
+            "fontSize": 13,
+            "font": "sans-serif",
+            "fontWeight": "normal",
+            "fontStyle": "italic"
+          },
           "encoding": {
             "x": { "value": "width" },
             "y": { "value": "height" },
@@ -85,12 +92,21 @@
               "value": "Neymar Jr going from FC Barcelona to PSG in 2017 for a world record fee."
             },
             "color": {
-              "value": "grey"
+              "value": "#303030"
             }
           }
         },
         {
-          "mark": { "type": "text", "align": "center", "dx": -850, "dy": -145 },
+          "mark": {
+            "type": "text",
+            "align": "center",
+            "dx": -830,
+            "dy": -145,
+            "fontSize": 13,
+            "font": "sans-serif",
+            "fontWeight": "normal",
+            "fontStyle": "italic"
+          },
           "encoding": {
             "x": { "value": "width" },
             "y": { "value": "height" },
@@ -98,20 +114,29 @@
               "value": "Zinedine Zidane going to Real Madrid in 2001 for €77.5m."
             },
             "color": {
-              "value": "grey"
+              "value": "#303030"
             }
           }
         },
         {
-          "mark": { "type": "text", "align": "center", "dx": -180, "dy": -225 },
+          "mark": {
+            "type": "text",
+            "align": "center",
+            "dx": -202,
+            "dy": -238,
+            "fontSize": 13,
+            "font": "sans-serif",
+            "fontWeight": "normal",
+            "fontStyle": "italic"
+          },
           "encoding": {
             "x": { "value": "width" },
             "y": { "value": "height" },
             "text": {
-              "value": "Kylian Mbappe becomes the most expensive 19 year-old footballer."
+              "value": "Kylian Mbappe becomes the world's most expensive 19 year-old footballer."
             },
             "color": {
-              "value": "grey"
+              "value": "#303030"
             }
           }
         }
@@ -121,12 +146,6 @@
       "width": 1000,
       "height": 250,
       "mark": "area",
-      "params": [
-        {
-          "name": "brush",
-          "select": { "type": "interval", "encodings": ["x"] }
-        }
-      ],
       "encoding": {
         "x": {
           "timeUnit": "year",

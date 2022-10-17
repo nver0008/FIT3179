@@ -46,11 +46,6 @@
       vegaEmbed("#historical_transfers", spec6)
         .then(function (result) {})
         .catch(console.error);
-
-      var spec7 = "js/historical_transfers_2.vg.json";
-      vegaEmbed("#historical_transfers2", spec7)
-        .then(function (result) {})
-        .catch(console.error);
     </script>
   </head>
   <body>
@@ -70,11 +65,31 @@
       <div id="container" class="clear">
         <!-- main content -->
         <div id="homepage">
+          <h1>Transfers by Players</h1>
+          <p>
+            If you are unfamiliarly with a transfer fee, when a player is still
+            contracted with a club for an upcoming season, a potential buyer
+            will make a monetary offer to the club the player is contracted to
+            for their contract to be terminated. From there, they are free to
+            sign with the new club and discuss wages and bonuses. A player's
+            value is dependent on a number of factors, including (but not
+            limited to) age, form, injury history and career potential.
+          </p>
+          <p>
+            In this section, we will review individual player movements at the
+            end of the 2020-21 season. Note the large number of players being
+            signed by a premier league club and are English. This is due to what
+            is colloquially known as the "English Tax". This is because in the
+            Premier League, every club is required to have a certain number of
+            English players, and as such talented english players are a
+            commodity and therefore clubs will pay higher fees to obtain their
+            signatures.
+          </p>
           <section id="top30transfer">
             <div id="top_transfers_2021"></div>
           </section>
           <section id="info" class="clear">
-            <h1>Most expensive transfers 2021:</h1>
+            <h2>Most expensive transfers 2021:</h2>
             <article class="one_quarter">
               <figure>
                 <img
@@ -195,6 +210,33 @@
             </article>
           </section>
           <section id="info" class="clear">
+            <h1>Club Expenditure</h1>
+            <p>
+              In this section, we explore the total expenditure of all the top
+              clubs across the top 5 leagues; that being the Premier League
+              (England + Wales), Bundesliga (Germany), La Liga (Spain), Serie A
+              (Italy) and Ligue 1 (France). Typically, clubs with more buying
+              power are those that have stronger backing by owners and have
+              global awareness.
+            </p>
+            <p>
+              Manchester United and Arsenal are both hugely successful english
+              clubs, and Manchester City are backed heavily financially in more
+              recent times and have enjoyed massive domestic success.
+            </p>
+            <p>
+              AS Roma spent big this window with some young talents, as did RB
+              Leipzig as they challenge for the Bundesliga title, still looking
+              for thier maiden trophy.
+            </p>
+            <p>
+              It is no surpirse to see Paris Saint-Germain amongst the top
+              spenders, but Stade Rennais and Aston Villa are both clubs that
+              spent big this summer and don't typically spend that much on
+              player deals. That being said, Aston Villa were the ones that sold
+              record-breaking Jack Grealish, and therefore had some cash to
+              spend to make up for the loss of their captain.
+            </p>
             <article>
               <div id="second">
                 <figure>
@@ -206,7 +248,7 @@
               </div>
             </article>
             <div>
-              <h1>Clubs with Highest Gross Spend in 2021:</h1>
+              <h2>Clubs with Highest Gross Spend in 2021:</h2>
               <article class="one_fifth">
                 <figure>
                   <img
@@ -336,10 +378,20 @@
             </div>
           </section>
           <section id="info" class="clear">
+            <h1>Nations competing in 2021-22</h1>
+            <p>
+              For the top 5 leagues, typically the players are sourced from
+              Europe, especially those from their home nation. Outside of
+              Europe, clubs tend to look to the Americas, in particular
+              Argentina and Brazil, as well as in more recent times, the USA, in
+              search of talent. Western Africa is growing in terms of number of
+              players in the elite divisions and Asia and Oceania is lagging
+              behind massively.
+            </p>
             <div id="nationalities_map"></div>
             <div id="radial_chart"></div>
             <div id="nations_list">
-              <h1>Nations with Highest Player Count:</h1>
+              <h2>Nations with Highest Player Count:</h2>
               <ol>
                 <li>
                   <img src="images/es.png" height="32" width="48" /> - Spain:
@@ -378,7 +430,117 @@
           </section>
           <section id="info" class="clear">
             <h1>Historical Transfers</h1>
+            <p>
+              Over the last 20 years, there has been a massive increase in the
+              most expensive player. The record has been shattered a number of
+              times, but none larger than the multi-hundred-million euro deal
+              that saw Neymar move eastward to France. This transfer has since
+              opened the gates for transfer records, where we are seeing a more
+              inflated market to this date.
+            </p>
             <div id="historical_transfers"></div>
+            <h2>
+              World Record Transfers Since 2000 (at the time of the transfer):
+            </h2>
+            <article class="one_quarter">
+              <figure>
+                <img src="images/zidane.jpg" width="64" height="64" alt="" />
+              </figure>
+              <strong>Zinedine Zidane</strong>
+              <p>
+                Zidane is known for his flair passing trait, and his ability to
+                score goals from distance. His technique on the ball was
+                arguably unrivalled. Zidane is now a legend of the sport,
+                scoring 31 times for the French national team and he won the
+                World Cup with Les Blues in 1998.
+              </p>
+              <ul>
+                <li><b>AGE:</b> 29</li>
+                <li><b>NATIONALITY:</b> France</li>
+                <li><b>FROM:</b> Juventus</li>
+                <li><b>TO:</b> Real Madrid</li>
+                <li><b>FEE:</b> €77,500,000</li>
+              </ul>
+              <p class="more">
+                <a href="https://en.wikipedia.org/wiki/Zinedine_Zidane"
+                  >Read More &raquo;</a
+                >
+              </p>
+            </article>
+            <article class="one_quarter">
+              <figure>
+                <img src="images/ronaldo.png" width="64" height="64" alt="" />
+              </figure>
+              <strong>Cristiano Ronaldo</strong>
+              <p>
+                Ronaldo burst onto the scene with Manchester United at the age
+                of 17, winning the Premier League 3 times with the Red Devils
+                before making his move to Spain. 5 Ballon d'Ors and a spell with
+                Juventus later, Ronaldo returned to Manchester in 2021 where he
+                remains today.
+              </p>
+              <ul>
+                <li><b>AGE:</b> 24</li>
+                <li><b>NATIONALITY:</b> Portugal</li>
+                <li><b>FROM:</b> Manchester United</li>
+                <li><b>TO:</b> Real Madrid</li>
+                <li><b>FEE:</b> €94,000,000</li>
+              </ul>
+              <p class="more">
+                <a href="https://en.wikipedia.org/wiki/Cristiano_Ronaldo"
+                  >Read More &raquo;</a
+                >
+              </p>
+            </article>
+            <article class="one_quarter">
+              <figure>
+                <img src="images/bale.jpeg" height="64" alt="" />
+              </figure>
+              <strong>Gareth Bale</strong>
+              <p>
+                Gareth Bale began his career as a left back with Premier League
+                side Southampton, before moving to London in 2007 - from there,
+                he developed into a more attacking player, utilising his speed
+                and skill to score 42 goals. He was the most expensive Brit of
+                all time, up until 2021.
+              </p>
+              <ul>
+                <li><b>AGE:</b> 24</li>
+                <li><b>NATIONALITY:</b> Wales</li>
+                <li><b>FROM:</b> Tottenham Hotspur</li>
+                <li><b>TO:</b> Real Madrid</li>
+                <li><b>FEE:</b> €101,000,000</li>
+              </ul>
+              <p class="more">
+                <a href="https://en.wikipedia.org/wiki/Gareth_Bale"
+                  >Read More &raquo;</a
+                >
+              </p>
+            </article>
+            <article class="one_quarter lastbox">
+              <figure>
+                <img src="images/neymar.jpg" width="64" height="64" alt="" />
+              </figure>
+              <strong>Neymar Jr.</strong>
+              <p>
+                Neymar Jr. burst onto the professional scene with Santos in
+                Brazil, before making the big money move to Barcelona in 2013.
+                He won the treble with the Catalans in 2015, before smashing the
+                transfer record in 2017 and moving to PSG, where he plays today.
+              </p>
+              <ul>
+                <li><b>AGE:</b> 25</li>
+                <li><b>NATIONALITY:</b> Brazil</li>
+                <li><b>FROM:</b> FC Barcelona</li>
+                <li><b>TO:</b> Paris Saint-Germain</li>
+                <li><b>FEE:</b> €222,000,000</li>
+              </ul>
+              <p class="more">
+                <a href="https://en.wikipedia.org/wiki/Neymar"
+                  >Read More &raquo;</a
+                >
+              </p>
+            </article>
           </section>
         </div>
       </div>
